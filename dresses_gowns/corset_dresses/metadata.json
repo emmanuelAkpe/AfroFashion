@@ -1,0 +1,257 @@
+{
+  "category": "corset_dresses",
+  "description": "Corset dresses feature structured, figure-hugging bodices often enhanced with boning or shaping panels. In African fashion, they're crafted with luxurious fabrics such as Ankara, Lace, Kente, and Aso-Oke, and are popular for high-profile events like weddings, engagements, and fashion galas.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Ivory Coast", "Senegal"],
+  "event": [
+    "Wedding",
+    "Traditional Engagement",
+    "Fashion Show",
+    "Gala",
+    "Cultural Pageant"
+  ],
+  "style": ["Couture", "Modern", "Traditional Fusion", "Elegant", "Feminine"],
+  "gender": ["Female"],
+  "total_images": 30,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "dresses_gowns/corset_dresses/1.jpg",
+      "description": "Structured green Ankara corset dress with fitted silhouette, ideal for weddings.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "dresses_gowns/corset_dresses/2.jpg",
+      "description": "Violet and silver corset gown designed for cultural galas and elite ceremonies.",
+      "gender": ["Female"],
+      "colors": ["Violet", "Silver"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "dresses_gowns/corset_dresses/3.jpg",
+      "description": "Classic black cotton corset dress for elegant evening wear.",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "dresses_gowns/corset_dresses/4.jpg",
+      "description": "Wine-colored silk and cotton corset gown for traditional events.",
+      "gender": ["Female"],
+      "colors": ["Wine"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "dresses_gowns/corset_dresses/5.jpg",
+      "description": "Rich wine corset dress with a smooth silk finish, perfect for fashion shows.",
+      "gender": ["Female"],
+      "colors": ["Wine"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "dresses_gowns/corset_dresses/6.jpg",
+      "description": "Black silk corset dress with cultural influence and a modern edge.",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "dresses_gowns/corset_dresses/7.jpg",
+      "description": "Green corset gown with traditional Ankara detailing, worn at weddings.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "dresses_gowns/corset_dresses/8.jpg",
+      "description": "Elegant green corset dress for formal African ceremonies.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "dresses_gowns/corset_dresses/9.jpg",
+      "description": "Green silk corset gown with traditional fusion elements.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "dresses_gowns/corset_dresses/10.jpg",
+      "description": "Wine cotton corset dress styled for gala and engagement settings.",
+      "gender": ["Female"],
+      "colors": ["Wine"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "dresses_gowns/corset_dresses/11.jpg",
+      "description": "Feminine green corset gown with clean Ankara finish.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "dresses_gowns/corset_dresses/12.jpg",
+      "description": "Chic pink corset gown with soft structure for weddings.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "dresses_gowns/corset_dresses/13.jpg",
+      "description": "Multicolored Ankara corset dress with vibrant patterns.",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "dresses_gowns/corset_dresses/14.jpg",
+      "description": "Colorful corset dress with traditional Ankara vibrancy.",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "dresses_gowns/corset_dresses/15.jpg",
+      "description": "Red corset dress with Ankara accents, ideal for cultural pageants.",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "dresses_gowns/corset_dresses/16.jpg",
+      "description": "Graceful green corset dress made with Ankara fabric blend.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "dresses_gowns/corset_dresses/17.jpg",
+      "description": "Elegant silver and green corset gown tailored for special occasions.",
+      "gender": ["Female"],
+      "colors": ["Green", "Silver"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "dresses_gowns/corset_dresses/18.jpg",
+      "description": "Striking blue corset dress crafted with fine African cotton.",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "dresses_gowns/corset_dresses/19.jpg",
+      "description": "Violet corset dress ideal for red carpet or traditional ceremonies.",
+      "gender": ["Female"],
+      "colors": ["Violet"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "dresses_gowns/corset_dresses/20.jpg",
+      "description": "Green cotton corset dress with flattering contours.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "dresses_gowns/corset_dresses/21.jpg",
+      "description": "Soft pink corset gown for feminine wedding styles.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "dresses_gowns/corset_dresses/22.jpg",
+      "description": "Teal cotton corset dress with elegant shaping.",
+      "gender": ["Female"],
+      "colors": ["Teal"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "dresses_gowns/corset_dresses/23.jpg",
+      "description": "Simple green corset dress tailored for cultural elegance.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "dresses_gowns/corset_dresses/24.jpg",
+      "description": "Minimalist green corset gown in polished cotton.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "dresses_gowns/corset_dresses/25.jpg",
+      "description": "Classic white corset dress for bridal and formal occasions.",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "dresses_gowns/corset_dresses/26.jpg",
+      "description": "Soft pink corset dress designed for traditional weddings.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "dresses_gowns/corset_dresses/27.jpg",
+      "description": "Shimmering silver corset gown for high-profile cultural events.",
+      "gender": ["Female"],
+      "colors": ["Silver"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "dresses_gowns/corset_dresses/28.jpg",
+      "description": "Bold red corset gown made with luxurious Ankara blend.",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "dresses_gowns/corset_dresses/29.jpg",
+      "description": "Rich green corset dress designed for traditional African fashion shows.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "dresses_gowns/corset_dresses/30.jpg",
+      "description": "Classic black corset dress with refined lines and cultural flair.",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    }
+  ]
+}

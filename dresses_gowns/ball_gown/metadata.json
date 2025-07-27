@@ -1,0 +1,267 @@
+{
+  "category": "ball_gown",
+  "description": "Elegant full-length dress with a voluminous skirt, often crafted from rich African fabrics like Ankara, Kente, or Lace, blending traditional patterns with modern couture for weddings, galas, and pageants.",
+  "regions": [
+    "Nigeria",
+    "Ghana",
+    "Senegal",
+    "South Africa",
+    "Kenya",
+    "Uganda",
+    "Ivory Coast"
+  ],
+  "event": ["Wedding", "Gala", "Pageant", "Cultural Ceremony"],
+  "style": ["Formal", "Couture", "Celebratory"],
+  "gender": ["Female"],
+  "total_images": 30,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "dresses_gowns/ball_gown/1.jpg",
+      "description": "Ankara ball gown for prom, wedding, awards wining, dinner party",
+      "colors": ["Orange", "Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "dresses_gowns/ball_gown/2.jpg",
+      "description": "Elegant ball gown with intricate embroidery, perfect for formal events",
+      "colors": ["Orange", "Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "dresses_gowns/ball_gown/3.jpg",
+      "description": "The “Medusa” Embellished Lace Bridal Ball Gown",
+      "colors": ["White"],
+      "fabric": ["Cotton", "Lace"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "dresses_gowns/ball_gown/4.jpg",
+      "description": "Floral patterned ball gown, perfect for spring weddings",
+      "colors": ["White"],
+      "fabric": ["Cotton", "Lace"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "dresses_gowns/ball_gown/5.jpg",
+      "description": "African print kente ball dress for prom ,African women clothing,long gown, prom gowns",
+      "colors": ["Burgundy"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "dresses_gowns/ball_gown/6.jpg",
+      "description": "African print kente ball dress for prom ,African women clothing,long gown, prom gowns",
+      "colors": ["Burgundy"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "dresses_gowns/ball_gown/7.jpg",
+      "description": "African print kente ball dress for prom ,African women clothing,long gown, prom gowns",
+      "colors": ["Burgundy"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "dresses_gowns/ball_gown/8.jpg",
+      "description": "Women fit and flare satin ball dress, prom gown, African women maxi gown, velvet dresses",
+      "colors": ["Gold"],
+      "fabric": ["Cotton", "Satin"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "dresses_gowns/ball_gown/9.jpg",
+      "description": "Women fit and flare satin ball dress, prom gown, African women maxi gown, velvet dresses",
+      "colors": ["Gold"],
+      "fabric": ["Cotton", "Satin"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "dresses_gowns/ball_gown/10.jpg",
+      "description": "African women ball dress,ankara maxi gown, African dress for prom,Ankara wedding dress",
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "dresses_gowns/ball_gown/11.jpg",
+      "description": "African women ball dress,ankara maxi gown, African dress for prom,Ankara wedding dress",
+      "colors": ["Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "dresses_gowns/ball_gown/12.jpg",
+      "description": "White prom ball dress, prom gowns, engagement dress",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Lace", "Linen"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "dresses_gowns/ball_gown/13.jpg",
+      "description": "White prom ball dress, prom gowns, engagement dress",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Lace", "Linen"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "dresses_gowns/ball_gown/14.jpg",
+      "description": "White prom ball dress, prom gowns, engagement dress",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Lace", "Linen"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "dresses_gowns/ball_gown/15.jpg",
+      "description": "White prom ball dress, prom gowns, engagement dress",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Lace", "Linen"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "dresses_gowns/ball_gown/16.jpg",
+      "description": "Ankara print long dress,African ball prom dress,Ankara women clothing, African gowns",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "dresses_gowns/ball_gown/17.jpg",
+      "description": "Ankara print long dress,African ball prom dress,Ankara women clothing, African gowns",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "dresses_gowns/ball_gown/18.jpg",
+      "description": "Ankara print long dress,African ball prom dress,Ankara women clothing, African gowns",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "dresses_gowns/ball_gown/19.jpg",
+      "description": "African ball dress, African couture gown, African corset dress, African print dress, African wedding dress, African maxi dress,Ankara gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "dresses_gowns/ball_gown/20.jpg",
+      "description": "African ball dress, African couture gown, African corset dress, African print dress, African wedding dress, African maxi dress,Ankara gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "dresses_gowns/ball_gown/21.jpg",
+      "description": "African ball dress, African couture gown, African corset dress, African print dress, African wedding dress, African maxi dress,Ankara gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "dresses_gowns/ball_gown/22.jpg",
+      "description": "African ball dress, African couture gown, African corset dress, African print dress, African wedding dress, African maxi dress,Ankara gown",
+      "colors": ["Orange", "Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "dresses_gowns/ball_gown/23.jpg",
+      "description": "African Ball Gown,African Red Carpet Dress,African Gala Dress,African Clothing for Women,African Birthday Dress,African Long Gown,Long Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "dresses_gowns/ball_gown/24.jpg",
+      "description": "African ball gown",
+      "colors": ["Yellow", "Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "dresses_gowns/ball_gown/25.jpg",
+      "description": "African ball gown",
+      "colors": ["Yellow", "Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "dresses_gowns/ball_gown/26.jpg",
+      "description": "African ball gown",
+      "colors": ["Blue", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "dresses_gowns/ball_gown/27.jpg",
+      "description": "African ball gown",
+      "colors": ["Blue", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "dresses_gowns/ball_gown/28.jpg",
+      "description": "African ball gown",
+      "colors": ["Blue", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "dresses_gowns/ball_gown/29.jpg",
+      "description": "African ball gown",
+      "colors": ["Blue", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "dresses_gowns/ball_gown/30.jpg",
+      "description": "African Girls Ball Gown",
+      "colors": ["Red", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "dresses_gowns/ball_gown/30.jpg",
+      "description": "African Girls Ball Gown",
+      "colors": ["Red", "Yellow"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    }
+  ]
+}

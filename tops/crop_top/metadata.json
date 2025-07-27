@@ -1,0 +1,346 @@
+{
+  "category": "crop_top",
+  "description": "Short, midriff-baring tops adapted in African fashion through vibrant fabrics like Ankara, Kente, Adire, and Shweshwe. Often styled with matching skirts, pants, or wrappers for casual, semi-formal, and fashion-forward occasions.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya", "Uganda", "Senegal"],
+  "event": [
+    "Casual Wear",
+    "Summer Festivals",
+    "Cultural Events",
+    "Fashion Show",
+    "Engagement Ceremony"
+  ],
+  "style": ["Modern", "Urban", "Youthful", "Afrocentric", "Chic"],
+  "gender": ["Female"],
+  "total_images": 41,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "tops/crop_top/1.jpg",
+      "description": "Crop Top",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "tops/crop_top/2.jpg",
+      "description": "Crop Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "tops/crop_top/3.jpg",
+      "description": "Crop Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "tops/crop_top/4.jpg",
+      "description": "Crop Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "tops/crop_top/5.jpg",
+      "description": "Crop Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+
+    {
+      "filename": "6.jpg",
+      "path": "tops/crop_top/6.jpg",
+      "description": "Crop Top.Sublime shades of fuchsia and purple, symmetrical patterns all in curves and finesse and a harmony",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "tops/crop_top/7.jpg",
+      "description": "Crop Top.Sublime shades of fuchsia and purple, symmetrical patterns all in curves and finesse and a harmony",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "tops/crop_top/8.jpg",
+      "description": "Crop Top.Sublime shades of fuchsia and purple, symmetrical patterns all in curves and finesse and a harmony",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "tops/crop_top/9.jpg",
+      "description": "Crop Top.Sublime shades of fuchsia and purple, symmetrical patterns all in curves and finesse and a harmony",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "tops/crop_top/10.jpg",
+      "description": "Crop Top.A close cousin of the Abidjan fabric, that of Daloa is overflowing with vitality and gives joie de vivre to the wearer.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "tops/crop_top/11.jpg",
+      "description": "Crop Top.A close cousin of the Abidjan fabric, that of Daloa is overflowing with vitality and gives joie de vivre to the wearer.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "tops/crop_top/12.jpg",
+      "description": "Crop Top.A close cousin of the Abidjan fabric, that of Daloa is overflowing with vitality and gives joie de vivre to the wearer.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "tops/crop_top/13.jpg",
+      "description": "Crop Top.A close cousin of the Abidjan fabric, that of Daloa is overflowing with vitality and gives joie de vivre to the wearer.",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "tops/crop_top/14.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "tops/crop_top/15.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "tops/crop_top/16.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "tops/crop_top/17.jpg",
+      "description": "Crop Top.This ankara top can be worn with jeans, leggings, or anything in your closet. Just get creative!",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "tops/crop_top/18.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "tops/crop_top/19.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "tops/crop_top/20.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "tops/crop_top/21.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "tops/crop_top/22.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "tops/crop_top/23.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "tops/crop_top/24.jpg",
+      "description": "Crop Top.Stunning handmade African print crop Top.",
+      "gender": ["Female"],
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "tops/crop_top/25.jpg",
+      "description": "Crop Top.crop top, bodice, bustier",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Jeans", "Stone"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "tops/crop_top/26.jpg",
+      "description": "Crop Top.crop top, bodice, bustier",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Jeans", "Stone"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "tops/crop_top/27.jpg",
+      "description": "Crop Top.crop top, bodice, bustier",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Jeans", "Stone"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "tops/crop_top/28.jpg",
+      "description": "Adele Denimkara Short & Crop Top Set/ African Print Short/ Crop Top/ Summer Fashion/ Spring Fashion",
+      "gender": ["Female"],
+      "colors": ["Indigo"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "tops/crop_top/29.jpg",
+      "description": "Adele Denimkara Short & Crop Top Set/ African Print Short/ Crop Top/ Summer Fashion/ Spring Fashion",
+      "gender": ["Female"],
+      "colors": ["Indigo"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "tops/crop_top/30.jpg",
+      "description": "Adele Denimkara Short & Crop Top Set/ African Print Short/ Crop Top/ Summer Fashion/ Spring Fashion",
+      "gender": ["Female"],
+      "colors": ["Indigo"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "tops/crop_top/31.jpg",
+      "description": "Adele Denimkara Short & Crop Top Set/ African Print Short/ Crop Top/ Summer Fashion/ Spring Fashion",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "tops/crop_top/32.jpg",
+      "description": "This gorgeous  crop top will take you from the beach to a party in style. Perfect with a skirt, shorts or some jeans in summer.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "tops/crop_top/33.jpg",
+      "description": "This gorgeous  crop top will take you from the beach to a party in style. Perfect with a skirt, shorts or some jeans in summer.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "tops/crop_top/34.jpg",
+      "description": "This gorgeous  crop top will take you from the beach to a party in style. Perfect with a skirt, shorts or some jeans in summer.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "tops/crop_top/35.jpg",
+      "description": "This gorgeous  crop top will take you from the beach to a party in style. Perfect with a skirt, shorts or some jeans in summer.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "tops/crop_top/36.jpg",
+      "description": "Royal Blue African Print Off Shoulder Crop Top",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "tops/crop_top/37.jpg",
+      "description": "Royal Blue African Print Off Shoulder Crop Top",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "tops/crop_top/38.jpg",
+      "description": "Royal Blue African Print Off Shoulder Crop Top",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "tops/crop_top/39.jpg",
+      "description": " African Print Wrap Crop Top",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "tops/crop_top/40.jpg",
+      "description": " African Print Wrap Crop Top",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "tops/crop_top/41.jpg",
+      "description": " African Print Wrap Crop Top",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    }
+  ]
+}

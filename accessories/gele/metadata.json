@@ -1,0 +1,409 @@
+{
+  "category": "gele",
+  "description": "Structured, elaborate African headwrap, commonly worn in Nigeria and across West Africa for formal events. Often crafted from stiff fabrics like Aso Oke or Brocade, Gele symbolizes elegance, tradition, and cultural pride.",
+  "regions": ["Nigeria", "Ghana", "Senegal", "West Africa"],
+  "event": [
+    "Weddings",
+    "Traditional Ceremonies",
+    "Engagement Ceremonies",
+    "Church Services",
+    "Fashion Shows"
+  ],
+  "style": ["Elegant", "Structured", "Traditional", "Cultural", "Statement"],
+  "gender": ["Female"],
+  "total_images": 50,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "accessories/gele/1.jpg",
+      "description": "Luxury Pleated Beaded Auto Gele Hat, African Gele, Bride Gele, Women Headwear",
+      "gender": ["Female"],
+      "colors": ["Wine"],
+      "fabric": ["Batik", "Beads"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "accessories/gele/2.jpg",
+      "description": "raditional Gele",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "accessories/gele/3.jpg",
+      "description": "Top notch Beaded Gele / Black Beaded Auto gele / African Gele / Headwrap For Women / Wedding Outfit",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Beads", "Silk"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "accessories/gele/4.jpg",
+      "description": "Auto Gele White Nigeria Gele headtie hat Aso-oke fabric Headwrap ready to wear gele",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Beads", "Silk"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "accessories/gele/5.jpg",
+      "description": "Auto Gele White Nigeria Gele headtie hat Aso-oke fabric Headwrap ready to wear gele",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Beads", "Silk"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "accessories/gele/6.jpg",
+      "description": "Auto Gele(Purple)",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "accessories/gele/7.jpg",
+      "description": "Auto Gele Gold",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "accessories/gele/8.jpg",
+      "description": "Auto Gele wine",
+      "gender": ["Female"],
+      "colors": ["Wine"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "accessories/gele/9.jpg",
+      "description": "Silver African Auto Gele , Nigerian Head wrap, Sego gele",
+      "gender": ["Female"],
+      "colors": ["Silver"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "accessories/gele/10.jpg",
+      "description": "Ace Auto gele",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "accessories/gele/12.jpg",
+      "description": "Gold Auto gele",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "accessories/gele/13.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "accessories/gele/14.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "accessories/gele/15.jpg",
+      "description": "AAfrican Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Orange"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "accessories/gele/16.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "accessories/gele/17.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "accessories/gele/18.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "accessories/gele/19.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "accessories/gele/20.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "accessories/gele/21.jpg",
+      "description": "African Gele, Pre styled Head Tie, Auto Gele, Pre-Wrapped Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "accessories/gele/22.jpg",
+      "description": "Auto Gele in Fuschia",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "accessories/gele/23.jpg",
+      "description": "Auto Gele Headtie (Pink)",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "accessories/gele/24.jpg",
+      "description": "Burnt Orange Gele, Asooke Auto gele, African Headwrap for black women",
+      "gender": ["Female"],
+      "colors": ["Orange"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "accessories/gele/25.jpg",
+      "description": "Asooke Gele, AutoGele, Orange Gele, Nigeria headtie, Wedding hat, African Cap",
+      "gender": ["Female"],
+      "colors": ["Orange"],
+      "fabric": ["Cotton,", "Handwoven Cloth"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "accessories/gele/26.jpg",
+      "description": "Champagne Gold Auto gele, African Headwraps , Asooke , Weddings, Nigerian Bridal Gele",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "accessories/gele/27.jpg",
+      "description": "Auto Gele headtie (Fuscia/Gold)",
+      "gender": ["Female"],
+      "colors": ["Gold", "Fuschia"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "accessories/gele/28.jpg",
+      "description": "Auto Gele Head Tie Red  ",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "accessories/gele/29.jpg",
+      "description": "African Raw Silk Headwrap/ 2 Yards/ Raw Silk Gele  ",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "accessories/gele/30.jpg",
+      "description": "Auto Gele head wear Emerald Green ",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "accessories/gele/31.jpg",
+      "description": "Auto gele /Head wrap/Headwear/African head tie/Aso-oke scarf ",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "accessories/gele/32.jpg",
+      "description": "Auto gele set/Head wrap/Headwear/African head tie/Aso-oke scarf",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "accessories/gele/33.jpg",
+      "description": "Auto gele set/Head wrap/Headwear/African head tie/Aso-oke scarf",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "accessories/gele/34.jpg",
+      "description": "Auto gele set/Head wrap/Headwear/African head tie/Aso-oke scarf",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "accessories/gele/35.jpg",
+      "description": "Auto Gele Scarf set/Head wrap/Headwear/African head tie/Aso-oke scarf",
+      "gender": ["Female"],
+      "colors": ["Velvet"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "accessories/gele/36.jpg",
+      "description": " Ready to wear Autogele, Pre-Tied HeadWrap, Red Asooke Gele for women gowns, boubou, Ankara",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "accessories/gele/37.jpg",
+      "description": "Go Bold with this Gele Style & Multi-coloured Asooke",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "accessories/gele/38.jpg",
+      "description": "Go Bold with this Gele Style & Multi-coloured Asooke",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "accessories/gele/39.jpg",
+      "description": "Go Bold with this Gele Style & Multi-coloured Asooke",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "accessories/gele/40.jpg",
+      "description": "Go Bold with this Gele Style & Multi-coloured Asooke",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "accessories/gele/41.jpg",
+      "description": "Go Bold with this Gele Style & Multi-coloured Asooke",
+      "gender": ["Female"],
+      "colors": ["Silver"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "accessories/gele/42.jpg",
+      "description": "Auto Gele, Aso Ebi, Traditional Headgear| Aso Oke | Gele | Headwrap | Headtie",
+      "gender": ["Female"],
+      "colors": ["Purple"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "accessories/gele/43.jpg",
+      "description": "Auto Gele, Aso Ebi, Traditional Headgear| Aso Oke | Gele | Headwrap | Headtie",
+      "gender": ["Female"],
+      "colors": ["Purple"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "accessories/gele/44.jpg",
+      "description": "Auto Gele, Aso Ebi, Traditional Headgear| Aso Oke | Gele | Headwrap | Headtie",
+      "gender": ["Female"],
+      "colors": ["Purple"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "accessories/gele/45.jpg",
+      "description": "Auto Gele, Aso Ebi, Traditional Headgear| Aso Oke | Gele | Headwrap | Headtie  ",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "accessories/gele/46.jpg",
+      "description": "Auto Gele, Aso Ebi, Traditional Headgear| Aso Oke | Gele | Headwrap | Headtie  ",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "accessories/gele/47.jpg",
+      "description": "Ankara Gele & Accessory, Pre styled Head Tie, Auto Gele, Ceremonial Head Cover, Head Dress",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bazin"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "accessories/gele/48.jpg",
+      "description": "Auto Gele head tie Aso Oke Gold",
+      "gender": ["Female"],
+      "colors": ["Gold"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "accessories/gele/49.jpg",
+      "description": "Classic Wedding Gele, African Head tie, Women",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton", "Mesh"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "accessories/gele/50.jpg",
+      "description": "Classic Wedding Gele, African Head tie, Women",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton", "Mesh"]
+    }
+  ]
+}

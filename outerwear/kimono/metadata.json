@@ -1,0 +1,433 @@
+{
+  "category": "kimono",
+  "description": "A loose, open-front garment inspired by traditional Japanese design, reimagined in African fashion using fabrics like Ankara, Kente, or Adire. Commonly worn as a stylish top layer for modern looks or ceremonial outfits.",
+  "regions": ["Nigeria", "Ghana", "Kenya", "South Africa"],
+  "event": [
+    "Wedding",
+    "Fashion Show",
+    "Brunch",
+    "Cultural Festival",
+    "Photoshoot"
+  ],
+  "style": ["Modern", "Chic", "Afro-Fusion", "Statement Wear"],
+  "gender": ["Female", "Male"],
+  "total_images": 52,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "outerwear/kimono/1.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "outerwear/kimono/2.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "outerwear/kimono/3.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "outerwear/kimono/4.jpg",
+      "description": "A multicolored Maxi Kimono for ladies.Can be styled as s dress.Comes with a detachable waist strap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "outerwear/kimono/5.jpg",
+      "description": "A multicolored Maxi Kimono for ladies.Can be styled as s dress.Comes with a detachable waist strap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "outerwear/kimono/6.jpg",
+      "description": "A multicolored Maxi Kimono for ladies.Can be styled as s dress.Comes with a detachable waist strap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "outerwear/kimono/7.jpg",
+      "description": "Kimono Banjul",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "outerwear/kimono/8.jpg",
+      "description": "Kimono Banjul",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "outerwear/kimono/9.jpg",
+      "description": "Kimono Banjul",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "outerwear/kimono/10.jpg",
+      "description": "Kimono Banjul",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "outerwear/kimono/11.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "outerwear/kimono/12.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "outerwear/kimono/13.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "outerwear/kimono/14.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Cotton"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "outerwear/kimono/15.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "outerwear/kimono/16.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "outerwear/kimono/17.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "outerwear/kimono/18.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "outerwear/kimono/19.jpg",
+      "description": "A Black Kimono",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "outerwear/kimono/20.jpg",
+      "description": "Beautiful African Print Kimono / Wax Bogolan Jacket / Japanese Kimono / Ankara Kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "outerwear/kimono/21.jpg",
+      "description": "Beautiful African Print Kimono / Wax Bogolan Jacket / Japanese Kimono / Ankara Kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "outerwear/kimono/22.jpg",
+      "description": "Beautiful African Print Kimono / Wax Bogolan Jacket / Japanese Kimono / Ankara Kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "outerwear/kimono/23.jpg",
+      "description": "Beautiful African Print Kimono / Wax Bogolan Jacket / Japanese Kimono / Ankara Kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "outerwear/kimono/24.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "outerwear/kimono/25.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "outerwear/kimono/26.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "outerwear/kimono/27.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "outerwear/kimono/28.jpg",
+      "description": "Fluid kimono Bogolan print",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "outerwear/kimono/29.jpg",
+      "description": "Fluid kimono Bogolan print",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "outerwear/kimono/30.jpg",
+      "description": "Fluid kimono Bogolan print",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "outerwear/kimono/31.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "outerwear/kimono/32.jpg",
+      "description": "Chiffon kimonos, Ankara kimonos, African kimonos, beachwear, beach wraps,,gift for her",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Chiffon"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "outerwear/kimono/33.jpg",
+      "description": "Chiffon kimonos, Ankara kimonos, African kimonos, beachwear, beach wraps,,gift for her",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Chiffon"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "outerwear/kimono/34.jpg",
+      "description": "Wax kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "outerwear/kimono/35.jpg",
+      "description": "Wax kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "outerwear/kimono/36.jpg",
+      "description": "Wax kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "outerwear/kimono/37.jpg",
+      "description": "Wax kimono",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara", "Bogolan"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "outerwear/kimono/38.jpg",
+      "description": "Combination of cotton tinted by the art of indigo, and woven loincloth, this kimono is entirely Made In Africa",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "outerwear/kimono/39.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "outerwear/kimono/40.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "outerwear/kimono/41.jpg",
+      "description": "A Blue Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "outerwear/kimono/42.jpg",
+      "description": "A Blue Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "outerwear/kimono/43.jpg",
+      "description": "A Blue Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "outerwear/kimono/44.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "outerwear/kimono/45.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "outerwear/kimono/46.jpg",
+      "description": "Ankara Kimono Jacket with long sleeves.",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "outerwear/kimono/47.jpg",
+      "description": "Ankara Kimono Jacket with long sleeves.",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "outerwear/kimono/48.jpg",
+      "description": "Ankara Kimono Jacket with long sleeves.",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "outerwear/kimono/49.jpg",
+      "description": "Ankara Kimono Jacket with long sleeves.",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "outerwear/kimono/50.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "outerwear/kimono/51.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "outerwear/kimono/52.jpg",
+      "description": "A multicolored Kimono for ladies",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    }
+  ]
+}

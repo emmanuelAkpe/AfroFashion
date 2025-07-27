@@ -1,0 +1,411 @@
+{
+  "category": "bubu_boubou",
+  "description": "Loose-fitting, free-flowing traditional gown worn across West Africa, often made from luxurious fabrics with intricate embroidery or bold prints, offering comfort and elegance for both casual and formal occasions.",
+  "regions": [
+    "Nigeria",
+    "Senegal",
+    "Mali",
+    "Gambia",
+    "Guinea",
+    "Benin",
+    "Togo",
+    "Ivory Coast",
+    "Burkina Faso"
+  ],
+  "event": [
+    "Religious Ceremony",
+    "Traditional Ceremony",
+    "Family Gathering",
+    "Formal Event",
+    "Casual Wear"
+  ],
+  "style": ["Traditional", "Elegant", "Comfort Wear", "Formal", "Cultural"],
+  "gender": ["Female"],
+  "total_images": 50,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "traditional_wear/bubu_boubou/1.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara", "Polyester"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "traditional_wear/bubu_boubou/2.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "traditional_wear/bubu_boubou/3.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "traditional_wear/bubu_boubou/4.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "traditional_wear/bubu_boubou/5.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "traditional_wear/bubu_boubou/6.jpg",
+      "description": "Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "traditional_wear/bubu_boubou/7.jpg",
+      "description": "This outfit is handmade in Africa to bring you some royal African feel, It is made from high-quality cotton, our BUBU ensures comfort and durability.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "traditional_wear/bubu_boubou/8.jpg",
+      "description": "This outfit is handmade in Africa to bring you some royal African feel, It is made from high-quality cotton, our BUBU ensures comfort and durability.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "traditional_wear/bubu_boubou/9.jpg",
+      "description": "This outfit is handmade in Africa to bring you some royal African feel, It is made from high-quality cotton, our BUBU ensures comfort and durability.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "traditional_wear/bubu_boubou/11.jpg",
+      "description": "This outfit is handmade in Africa to bring you some royal African feel, It is made from high-quality cotton, our BUBU ensures comfort and durability.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "traditional_wear/bubu_boubou/12.jpg",
+      "description": "Green Maxi Bubu",
+      "colors": ["Green"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/bubu_boubou/14.jpg",
+      "description": "Step into elegance with this Luxurious Gold BUBU Dress, designed for the woman who exudes confidence and sophistication. ",
+      "colors": ["Gold"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "traditional_wear/bubu_boubou/15.jpg",
+      "description": "Step into elegance with this Luxurious Gold BUBU Dress, designed for the woman who exudes confidence and sophistication. ",
+      "colors": ["Gold"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "traditional_wear/bubu_boubou/16.jpg",
+      "description": "Elevate your style with this luxurious Brown and Gold BUBU Dress.",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "traditional_wear/bubu_boubou/17.jpg",
+      "description": "Elevate your style with this luxurious Brown and Gold BUBU Dress.",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "traditional_wear/bubu_boubou/18.jpg",
+      "description": "Step into elegance with this striking Teal and Gold Floral Kaftan Dress. The deep teal base is beautifully contrasted with shimmering gold and silver floral BUBU Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "traditional_wear/bubu_boubou/19.jpg",
+      "description": "Step into elegance with this striking Teal and Gold Floral Kaftan Dress. The deep teal base is beautifully contrasted with shimmering gold and silver floral BUBU Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "traditional_wear/bubu_boubou/20.jpg",
+      "description": "Brisa Bubu Maxi Dress",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "traditional_wear/bubu_boubou/21.jpg",
+      "description": "Brisa Bubu Maxi Dress",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "traditional_wear/bubu_boubou/22.jpg",
+      "description": "Brisa Bubu Maxi Dress",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "traditional_wear/bubu_boubou/23.jpg",
+      "description": "Brisa Bubu Maxi Dress",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "traditional_wear/bubu_boubou/24.jpg",
+      "description": "KINWA BUBU DRESS",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "traditional_wear/bubu_boubou/25.jpg",
+      "description": "KINWA BUBU DRESS",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "traditional_wear/bubu_boubou/26.jpg",
+      "description": "Bubu Dress, Blue",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "traditional_wear/bubu_boubou/27.jpg",
+      "description": "Bubu Dress, Blue",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "traditional_wear/bubu_boubou/28.jpg",
+      "description": "Two-tone Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "traditional_wear/bubu_boubou/29.jpg",
+      "description": "Two-tone Bubu dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "traditional_wear/bubu_boubou/30.jpg",
+      "description": "Short boubou Ankara boubou",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "traditional_wear/bubu_boubou/31.jpg",
+      "description": "Short boubou Ankara boubou",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "traditional_wear/bubu_boubou/32.jpg",
+      "description": "Boubou Aliyah boubou women dress",
+      "colors": ["Burgundy"],
+      "gender": ["Female"],
+      "fabric": ["Ankara", "Silk"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "traditional_wear/bubu_boubou/33.jpg",
+      "description": "Boubou Aliyah boubou women dress",
+      "colors": ["Green"],
+      "gender": ["Female"],
+      "fabric": ["Velvet"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "traditional_wear/bubu_boubou/34.jpg",
+      "description": "boubou Doumi",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "traditional_wear/bubu_boubou/35.jpg",
+      "description": "boubou Doumi",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "traditional_wear/bubu_boubou/36.jpg",
+      "description": "Boubou/caftan Adire “RICH Aunty”",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "traditional_wear/bubu_boubou/37.jpg",
+      "description": "Boubou/caftan Adire “RICH Aunty”",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "traditional_wear/bubu_boubou/38.jpg",
+      "description": "Boubou/caftan Adire “RICH Aunty”",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "traditional_wear/bubu_boubou/39.jpg",
+      "description": "Boubou/caftan Adire “RICH Aunty”",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "traditional_wear/bubu_boubou/40.jpg",
+      "description": "Boubou/caftan Adire “RICH Aunty”",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "traditional_wear/bubu_boubou/41.jpg",
+      "description": "Boubou/caftan Kampala « Tante riche »",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "traditional_wear/bubu_boubou/42.jpg",
+      "description": "Boubou/caftan Kampala « Tante riche »",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "traditional_wear/bubu_boubou/43.jpg",
+      "description": "Boubou/caftan Kampala « Tante riche »",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "traditional_wear/bubu_boubou/44.jpg",
+      "description": "Boubou/caftan Kampala « Tante riche »",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "traditional_wear/bubu_boubou/45.jpg",
+      "description": "Boubou/caftan Kampala « Tante riche »",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "traditional_wear/bubu_boubou/46.jpg",
+      "description": "Beaded Damask Boubou",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "traditional_wear/bubu_boubou/47.jpg",
+      "description": "Beaded Damask Boubou",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "traditional_wear/bubu_boubou/48.jpg",
+      "description": "Beaded Damask Boubou",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Batik"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "traditional_wear/bubu_boubou/49.jpg",
+      "description": "Boubou Dress. Rich Aunty Vibes, Maxi Dress, Plus size Dress",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Silk"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "traditional_wear/bubu_boubou/50.jpg",
+      "description": "Boubou Dress. Rich Aunty Vibes, Maxi Dress, Plus size Dress",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Silk"]
+    }
+  ]
+}

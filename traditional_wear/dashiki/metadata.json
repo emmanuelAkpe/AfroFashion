@@ -1,0 +1,226 @@
+{
+  "category": "dashiki",
+  "description": "Loose-fitting pullover shirt or tunic characterized by bold, colorful patterns and ornate embroidery around the neckline, rooted in West African fashion and widely adopted across Africa and the diaspora for casual and cultural expression.",
+  "regions": [
+    "Nigeria",
+    "Ghana",
+    "Senegal",
+    "Mali",
+    "Ivory Coast",
+    "Benin",
+    "Togo",
+    "African Diaspora (USA, Caribbean)"
+  ],
+  "event": [
+    "Cultural Ceremony",
+    "Casual Wear",
+    "Religious Gathering",
+    "Independence Day Celebrations",
+    "Festivals"
+  ],
+  "style": ["Traditional", "Casual", "Cultural", "Afrocentric", "Comfort Wear"],
+  "gender": ["Male", "Female"],
+  "total_images": 50,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "traditional_wear/dashiki/1.jpg",
+      "description": "Black dashiki to add a touch of originality to your look",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "traditional_wear/dashiki/2.jpg",
+      "description": "Pink and white dashiki t-shirt Ya mado",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "traditional_wear/dashiki/3.jpg",
+      "description": "Dashiki with Red Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "traditional_wear/dashiki/4.jpg",
+      "description": "Dashiki with Violet Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "traditional_wear/dashiki/5.jpg",
+      "description": "Purple Tie Dye Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Purple"],
+      "fabric": ["Tie Dye"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "traditional_wear/dashiki/6.jpg",
+      "description": "Orange Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Orange"],
+      "fabric": ["Tie Dye"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "traditional_wear/dashiki/7.jpg",
+      "description": "Blue Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "traditional_wear/dashiki/8.jpg",
+      "description": "Red Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "traditional_wear/dashiki/9.jpg",
+      "description": "White Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "traditional_wear/dashiki/10.jpg",
+      "description": "Black Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "traditional_wear/dashiki/11.jpg",
+      "description": "White Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "traditional_wear/dashiki/12.jpg",
+      "description": "Green Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "traditional_wear/dashiki/13.jpg",
+      "description": "Bogolan Symbols Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/dashiki/14.jpg",
+      "description": "Bogolan Symbols Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "traditional_wear/dashiki/15.jpg",
+      "description": "Black / Yellow X Bogolan Dashiki Shirt / Dashiki Dress - African print top Regular price",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Yellow"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "traditional_wear/dashiki/16.jpg",
+      "description": "Black / Yellow X Bogolan Dashiki Shirt / Dashiki Dress - African print top Regular price",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Yellow"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "traditional_wear/dashiki/17.jpg",
+      "description": "Orange Dotted Patterns Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Orange"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "traditional_wear/dashiki/18.jpg",
+      "description": "Orange Dotted Patterns Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Orange"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "traditional_wear/dashiki/19.jpg",
+      "description": "Turquoise Kampala Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Turquoise"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "traditional_wear/dashiki/20.jpg",
+      "description": "Turquoise Kampala Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Turquoise"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "traditional_wear/dashiki/21.jpg",
+      "description": "Black Bogolan Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "traditional_wear/dashiki/22.jpg",
+      "description": "Black Bogolan Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "traditional_wear/dashiki/23.jpg",
+      "description": "Yellow Flowers Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "traditional_wear/dashiki/24.jpg",
+      "description": "Yellow Flowers Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow"],
+      "fabric": ["Bogolan"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "traditional_wear/dashiki/25.jpg",
+      "description": "Purple Tie Dye Dashiki Shirt / Dashiki Dress - African print top",
+      "gender": ["Female", "Male"],
+      "colors": ["Purple"],
+      "fabric": ["Tie Dye"]
+    }
+  ]
+}

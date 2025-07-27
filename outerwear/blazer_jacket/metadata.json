@@ -1,0 +1,328 @@
+{
+  "category": "blazer_jacket",
+  "description": "Tailored jacket infused with African flair, featuring bold prints like Ankara, Kente, or Shweshwe. Combines contemporary structure with vibrant traditional patterns for a standout modern look.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya", "Uganda", "Senegal"],
+  "event": [
+    "Business Casual",
+    "Fashion Events",
+    "Formal Occasions",
+    "Cultural Shows"
+  ],
+  "style": ["Modern", "Corporate", "Couture", "Afrocentric"],
+  "gender": ["Male", "Female"],
+  "total_images": 40,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "outerwear/blazer_jacket/1.jpg",
+      "description": "Ankara Blazer/Jacket, African Blazer, African Print Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "outerwear/blazer_jacket/2.jpg",
+      "description": "Ankara Blazer/Jacket, African Blazer, African Print Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "outerwear/blazer_jacket/3.jpg",
+      "description": "Ankara Blazer/Jacket, African Blazer, African Print Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "outerwear/blazer_jacket/4.jpg",
+      "description": "Dashiki Blazer/Jacket, Angelina Dashiki Blazer, African Print Blazer",
+      "colors": ["Multicolored"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Dashiki"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "outerwear/blazer_jacket/5.jpg",
+      "description": "Dashiki Blazer/Jacket, Angelina Dashiki Blazer, African Print Blazer",
+      "colors": ["Multicolored"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Dashiki"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "outerwear/blazer_jacket/6.jpg",
+      "description": "Dashiki Blazer/Jacket, Angelina Dashiki Blazer, African Print Blazer",
+      "colors": ["Multicolored"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Dashiki"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "outerwear/blazer_jacket/7.jpg",
+      "description": "Jacquard Jacket, Jacquard Blazer, African Mens Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Polyester"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "outerwear/blazer_jacket/8.jpg",
+      "description": "Jacquard Jacket, Jacquard Blazer, African Mens Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Polyester"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "outerwear/blazer_jacket/9.jpg",
+      "description": "Jacquard Jacket, Jacquard Blazer, African Mens Blazer",
+      "colors": ["Blue"],
+      "gender": ["Male"],
+      "fabric": ["Cotton", "Polyester"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "outerwear/blazer_jacket/10.jpg",
+      "description": " Jacket Blazer",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "outerwear/blazer_jacket/11.jpg",
+      "description": " Men Jacket, Ankara Jacket for Men,Men Blazers, Jacket for Him",
+      "colors": ["Multicolored"],
+      "gender": ["Male"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "outerwear/blazer_jacket/12.jpg",
+      "description": "Women's Blazer Jacket",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester", "Spandex"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "outerwear/blazer_jacket/13.jpg",
+      "description": "Women's Blazer Jacket ",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "outerwear/blazer_jacket/14.jpg",
+      "description": "Women's Blazer Jacket ",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "outerwear/blazer_jacket/16.jpg",
+      "description": "Women's Blazer Jacket ",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "outerwear/blazer_jacket/17.jpg",
+      "description": "Milliardaire women's dress / blazer ",
+      "colors": [" Beige"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "outerwear/blazer_jacket/18.jpg",
+      "description": "Milliardaire women's dress / blazer ",
+      "colors": [" Beige"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "outerwear/blazer_jacket/19.jpg",
+      "description": "Command attention in this striking black blazer adorned with bold, hand-painted Adinkra motifs ",
+      "colors": [" Black"],
+      "gender": ["Male"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "outerwear/blazer_jacket/20.jpg",
+      "description": "Command attention in this striking black blazer adorned with bold, hand-painted Adinkra motifs ",
+      "colors": [" Black"],
+      "gender": ["Male"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "outerwear/blazer_jacket/21.jpg",
+      "description": "ASHA BLAZER SET",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "outerwear/blazer_jacket/22.jpg",
+      "description": "ASHA BLAZER SET",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "outerwear/blazer_jacket/23.jpg",
+      "description": "The Blazer Duafe 3 reimagines tradition through a lens of contemporary artistry.",
+      "colors": ["Black"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "outerwear/blazer_jacket/24.jpg",
+      "description": "The Blazer Duafe 3 reimagines tradition through a lens of contemporary artistry.",
+      "colors": ["Black"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "outerwear/blazer_jacket/25.jpg",
+      "description": "The Cowrie Blazer is a poetic homage to African heritage, where tradition meets contemporary expression. ",
+      "colors": ["Black"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "outerwear/blazer_jacket/26.jpg",
+      "description": "The Cowrie Blazer is a poetic homage to African heritage, where tradition meets contemporary expression. ",
+      "colors": ["Black"],
+      "gender": ["Female"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "outerwear/blazer_jacket/27.jpg",
+      "description": "The Volon blazer is designed to elegantly dress all silhouettes, from the most to the least slender, as it falls low on the hips.",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "outerwear/blazer_jacket/28.jpg",
+      "description": "The Volon blazer is designed to elegantly dress all silhouettes, from the most to the least slender, as it falls low on the hips.",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "outerwear/blazer_jacket/29.jpg",
+      "description": "The Volon blazer is designed to elegantly dress all silhouettes, from the most to the least slender, as it falls low on the hips.",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "outerwear/blazer_jacket/30.jpg",
+      "description": "Woven loincloth blazer from Burkina Faso (Faso dan fani, artisanal fabric). Iconic fabric, Faso dan fani is to Burkina Faso what Kente is to Ghana",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "outerwear/blazer_jacket/31.jpg",
+      "description": "Woven loincloth blazer from Burkina Faso (Faso dan fani, artisanal fabric). Iconic fabric, Faso dan fani is to Burkina Faso what Kente is to Ghana",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "outerwear/blazer_jacket/32.jpg",
+      "description": "Woven loincloth blazer from Burkina Faso (Faso dan fani, artisanal fabric). Iconic fabric, Faso dan fani is to Burkina Faso what Kente is to Ghana",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "outerwear/blazer_jacket/33.jpg",
+      "description": "Woven loincloth blazer from Burkina Faso (Faso dan fani, artisanal fabric). Iconic fabric, Faso dan fani is to Burkina Faso what Kente is to Ghana",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "outerwear/blazer_jacket/34.jpg",
+      "description": "This beautiful blazer which reaches the waist, emphasizes the shapes and softens them. It closes by turning the belt around the waist",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "outerwear/blazer_jacket/35.jpg",
+      "description": "This beautiful blazer which reaches the waist, emphasizes the shapes and softens them. It closes by turning the belt around the waist",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "outerwear/blazer_jacket/36.jpg",
+      "description": "This beautiful blazer which reaches the waist, emphasizes the shapes and softens them. It closes by turning the belt around the waist",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Cotton", "Batik"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "outerwear/blazer_jacket/37.jpg",
+      "description": "Stunning handmade Long sleeve Ankara Jacket.",
+      "colors": ["Green"],
+      "gender": ["Female"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "outerwear/blazer_jacket/38.jpg",
+      "description": "It is made as as Blazer but the cut-out design on the sleeves also give it the look of a cape.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara", "Velvet"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "outerwear/blazer_jacket/39.jpg",
+      "description": "It is made as as Blazer but the cut-out design on the sleeves also give it the look of a cape.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara", "Velvet"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "outerwear/blazer_jacket/40.jpg",
+      "description": "It is made as as Blazer but the cut-out design on the sleeves also give it the look of a cape.",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Ankara", "Velvet"]
+    }
+  ]
+}

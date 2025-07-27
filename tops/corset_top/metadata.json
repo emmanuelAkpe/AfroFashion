@@ -1,0 +1,321 @@
+{
+  "category": "corset_top",
+  "description": "Fitted tops featuring boning and structured shaping, adapted in African fashion through fabrics like Ankara, Kente, Lace, and Aso-Oke, commonly worn for weddings, fashion events, and high-society occasions.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Ivory Coast", "Senegal"],
+  "event": [
+    "Wedding",
+    "Traditional Engagement",
+    "Fashion Show",
+    "Gala",
+    "Cultural Pageant"
+  ],
+  "style": ["Couture", "Modern", "Traditional Fusion", "Elegant", "Feminine"],
+  "gender": ["Female"],
+  "total_images": 38,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "tops/corset_top/1.jpg",
+      "description": "African print corset too,made with the best quality African wax ankara",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "tops/corset_top/2.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["White", "Black"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "tops/corset_top/3.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["White", "Black"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "tops/corset_top/4.jpg",
+      "description": "African print corset too,made with the best quality African wax ankara",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "tops/corset_top/5.jpg",
+      "description": "African print corset too,made with the best quality African wax ankara",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "tops/corset_top/6.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["Turquoise", "Yellow"],
+      "fabric": ["Ankara", "Silk"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "tops/corset_top/7.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["Turquoise", "Yellow"],
+      "fabric": ["Ankara", "Silk"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "tops/corset_top/8.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "tops/corset_top/9.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "tops/corset_top/10.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "tops/corset_top/11.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "tops/corset_top/12.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "tops/corset_top/13.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "tops/corset_top/14.jpg",
+      "description": "red corset crop top. bustier, crop top and corset This piece has laces which makes it easy to adapt to all body types",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "tops/corset_top/15.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "tops/corset_top/16.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "tops/corset_top/17.jpg",
+      "description": "Ankara corset Top, Corset Top, Ankara Top. Ankara Top for Ladies, Off Shoulder Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "tops/corset_top/18.jpg",
+      "description": "Ankara corset Top, Corset Top, Ankara Top. Ankara Top for Ladies, Off Shoulder Top",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "tops/corset_top/19.jpg",
+      "description": "Yellow  corset Dress",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "tops/corset_top/20.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "tops/corset_top/13.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "tops/corset_top/22.jpg",
+      "description": "Ankara Corset Top, African Corset Top with Puff Sleeves, African Print Corset Top. Ankara Top",
+      "gender": ["Female"],
+      "colors": ["Pink"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "tops/corset_top/23.jpg",
+      "description": "Multicolored Corset Top Made with Ankara",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "tops/corset_top/24.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "tops/corset_top/25.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "tops/corset_top/26.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "tops/corset_top/27.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "tops/corset_top/28.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "tops/corset_top/29.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "tops/corset_top/30.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "tops/corset_top/31.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "tops/corset_top/32.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "tops/corset_top/33.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "tops/corset_top/34.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "tops/corset_top/35.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "tops/corset_top/36.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "tops/corset_top/37.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "tops/corset_top/38.jpg",
+      "description": "Ankara corset tops.African print inspire corset top, made from the best quality ankara wax fabric",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    }
+  ]
+}

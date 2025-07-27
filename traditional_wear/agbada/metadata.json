@@ -1,0 +1,339 @@
+{
+  "category": "agbada",
+  "description": "Traditional flowing robe with wide sleeves, worn across West Africa, especially by Yoruba in Nigeria and other Muslim communities.",
+  "regions": [
+    "West Africa",
+    "Nigeria",
+    "Benin",
+    "Togo",
+    "Ghana (Northern)",
+    "Mali",
+    "Senegal"
+  ],
+  "event": ["Wedding", "Traditional Ceremony", "Religious Ceremony"],
+  "style": ["Ceremonial", "Formal"],
+  "gender": ["Male"],
+  "total_images": 40,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "traditional_wear/agbada/1.jpg",
+      "description": "Men agbada and kaftan",
+      "colors": ["white"],
+      "fabric": ["Cashmere", "Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "traditional_wear/agbada/2.jpg",
+      "description": "Men agbada and kaftan",
+      "colors": ["white"],
+      "fabric": ["Cashmere", "Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "traditional_wear/agbada/3.jpg",
+      "description": "A handwoven Aso-oke, Eyo Royale embroidered, Agbada with matching handwoven danshiki and pants",
+      "colors": ["Multicolour"],
+      "fabric": ["Handwoven Cloth"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "traditional_wear/agbada/4.jpg",
+      "description": "A handwoven Aso-oke, Eyo Royale embroidered, Agbada with matching handwoven danshiki and pants",
+      "colors": ["Multicolour"],
+      "fabric": ["Handwoven Cloth"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "traditional_wear/agbada/5.jpg",
+      "description": "A cream, Zaria Gold-embroidered, Agbada with matching plain long-sleeved kaftan and pants",
+      "colors": ["cream", "Gold"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "traditional_wear/agbada/6.jpg",
+      "description": "A cream, Zaria Gold-embroidered, Agbada with matching plain long-sleeved kaftan and pants",
+      "colors": ["cream", "Gold"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "traditional_wear/agbada/7.jpg",
+      "description": "A cream, Zaria Gold-embroidered, Agbada with matching plain long-sleeved kaftan and pants",
+      "colors": ["cream", "Gold"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "traditional_wear/agbada/8.jpg",
+      "description": "A fully embroidered gold Aso oke Agbada set with stone embellishment; it comes with embroidered danshiki, pants and cap.",
+      "colors": ["Gold"],
+      "fabric": ["Handwoven Cloth"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "traditional_wear/agbada/9.jpg",
+      "description": "A cream, Zaria Gold-embroidered, Agbada with matching plain long-sleeved kaftan and pants",
+      "colors": ["Gold"],
+      "fabric": ["Handwoven Cloth"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "traditional_wear/agbada/10.jpg",
+      "description": "A cream, Zaria Gold-embroidered, Agbada with matching plain long-sleeved kaftan and pants",
+      "colors": ["Gold"],
+      "fabric": ["Handwoven Cloth"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "traditional_wear/agbada/11.jpg",
+      "description": "A buttercream yellow, burgundy royal grid- embroidered, agbada with round neckline with a subtle slit and button closure, with matching short-sleeved inner kaftan and matching pants",
+      "colors": ["Clear"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "traditional_wear/agbada/12.jpg",
+      "description": "A buttercream yellow, burgundy royal grid- embroidered, agbada with round neckline with a subtle slit and button closure, with matching short-sleeved inner kaftan and matching pants",
+      "colors": ["Clear"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "traditional_wear/agbada/13.jpg",
+      "description": "A black, metallic gold “Benin Crest” embroidered, agbada with black long-sleeved kaftan top and matching pants",
+      "colors": ["Black"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/agbada/14.jpg",
+      "description": "A black, metallic gold “Benin Crest” embroidered, agbada with black long-sleeved kaftan top and matching pants",
+      "colors": ["Black"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "traditional_wear/agbada/15.jpg",
+      "description": "This is a mustard yellow three-piece agbada (agbada, kaftan top and matching pants). Made from fine cashmere wool. Embroidery is huge, embroidery embellished with swarovsky stones. Agbada has turn up.",
+      "colors": ["Yellow"],
+      "fabric": ["Cashmere", "Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "traditional_wear/agbada/16.jpg",
+      "description": "A comfortable three-piece(plus top and pants) agbada. Can come in any other colour different from the displayed colour.",
+      "colors": ["White"],
+      "fabric": ["Cashmere", "Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "traditional_wear/agbada/17.jpg",
+      "description": "This is a three-piece agbada; an agbada, a short sleeves kaftan top, and a matching pants. Embroidery design has its main colour as white, and then has grey outlines. ",
+      "colors": ["White"],
+      "fabric": ["Cashmere", "Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "traditional_wear/agbada/18.jpg",
+      "description": "A football laser engraved patterned Agbada with leather, black snap with matching Swarovski details Agbada",
+      "colors": ["Green"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "traditional_wear/agbada/19.jpg",
+      "description": "A football laser engraved patterned Agbada with leather, black snap with matching Swarovski details Agbada",
+      "colors": ["Green"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "traditional_wear/agbada/20.jpg",
+      "description": "A Cream agbada.",
+      "colors": ["Cream"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "traditional_wear/agbada/21.jpg",
+      "description": "A Cream agbada.",
+      "colors": ["Cream"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "traditional_wear/agbada/22.jpg",
+      "description": "Beautiful Adire Female Agbada, Adire Agbada Kaftan.",
+      "colors": ["Cream"],
+      "fabric": ["Batik", "Cotton"],
+      "gender": "Female"
+    },
+    {
+      "filename": "23.jpg",
+      "path": "traditional_wear/agbada/23.jpg",
+      "description": "Beautiful Adire Female Agbada, Adire Agbada Kaftan.",
+      "colors": ["Cream"],
+      "fabric": ["Batik", "Cotton"],
+      "gender": "Female"
+    },
+    {
+      "filename": "24.jpg",
+      "path": "traditional_wear/agbada/24.jpg",
+      "description": "A walnut-brown Aso Oke Agbada with shades of brown, and gold beaded detailing",
+      "colors": ["Brown"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "traditional_wear/agbada/25.jpg",
+      "description": "A walnut-brown Aso Oke Agbada with shades of brown, and gold beaded detailing",
+      "colors": ["Brown"],
+      "fabric": ["Wool"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "traditional_wear/agbada/26.jpg",
+      "description": "A Grey, sided pagoda embroidery details agbada, 3/4 sleeve kaftan, and sokoto",
+      "colors": ["Grey"],
+      "fabric": ["Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "traditional_wear/agbada/27.jpg",
+      "description": "A Grey, sided pagoda embroidery details agbada, 3/4 sleeve kaftan, and sokoto",
+      "colors": ["Grey"],
+      "fabric": ["Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "traditional_wear/agbada/28.jpg",
+      "description": "An aesthetic, “Connected circled” embroidery details agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Purple"],
+      "fabric": ["Cotton", "Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "traditional_wear/agbada/29.jpg",
+      "description": "An aesthetic, “Connected circled” embroidery details agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Purple"],
+      "fabric": ["Cotton", "Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "traditional_wear/agbada/30.jpg",
+      "description": "An aesthetic, “Connected circled” embroidery details agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Purple"],
+      "fabric": ["Cotton", "Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "traditional_wear/agbada/31.jpg",
+      "description": "A Cool Green, Spiral Octagonal Interconnected Details Agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Green"],
+      "fabric": ["Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "traditional_wear/agbada/32.jpg",
+      "description": "A Cool Green, Spiral Octagonal Interconnected Details Agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Green"],
+      "fabric": ["Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "traditional_wear/agbada/33.jpg",
+      "description": "A Cool Green, Spiral Octagonal Interconnected Details Agbada, 3/4 sleeve kaftan & sokoto",
+      "colors": ["Green"],
+      "fabric": ["Cashmere"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "traditional_wear/agbada/34.jpg",
+      "description": "A garnet red, redundant flame embroidery detailing, matching ss30 Swarovski stones, long sleeve traditional senator kaftan native & sokoto",
+      "colors": ["Red"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "traditional_wear/agbada/35.jpg",
+      "description": "A garnet red, redundant flame embroidery detailing, matching ss30 Swarovski stones, long sleeve traditional senator kaftan native & sokoto",
+      "colors": ["Red"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "traditional_wear/agbada/36.jpg",
+      "description": "A white, connected square embroidery design with matching silver and black Swarovski stone details agbada, buba & sokoto",
+      "colors": ["white"],
+      "fabric": ["Cashmere", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "traditional_wear/agbada/37.jpg",
+      "description": "A white, connected square embroidery design with matching silver and black Swarovski stone details agbada, buba & sokoto",
+      "colors": ["white"],
+      "fabric": ["Cashmere", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "traditional_wear/agbada/38.jpg",
+      "description": "A navy blue, layered tettri pattern embroidery detailing agbada, front flap, 3/4 sleeve African senator kaftan native & sokoto",
+      "colors": ["white"],
+      "fabric": ["Cashmere", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "traditional_wear/agbada/39.jpg",
+      "description": "A navy blue, layered tettri pattern embroidery detailing agbada, front flap, 3/4 sleeve African senator kaftan native & sokoto",
+      "colors": ["Blue"],
+      "fabric": ["Cashmere", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "traditional_wear/agbada/40.jpg",
+      "description": "A navy blue, layered tettri pattern embroidery detailing agbada, front flap, 3/4 sleeve African senator kaftan native & sokoto",
+      "colors": ["Blue"],
+      "fabric": ["Cashmere", "Cotton"],
+      "gender": ["Male"]
+    }
+  ]
+}

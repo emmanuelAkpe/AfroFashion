@@ -1,0 +1,418 @@
+{
+  "category": "headwrap",
+  "description": "Versatile African head coverings styled in various forms, from casual daily wear to bold fashion statements. Made from fabrics like Ankara, Kente, and Adire, headwraps are worn across Africa to express culture, creativity, and fashion sensibilities.",
+  "regions": ["Nigeria", "Ghana", "Kenya", "South Africa", "Uganda", "Senegal"],
+  "event": [
+    "Casual Wear",
+    "Religious Gatherings",
+    "Cultural Festivals",
+    "Street Style",
+    "Fashion Shows"
+  ],
+  "style": ["Casual", "Creative", "Traditional", "Afrocentric", "Everyday"],
+  "gender": ["Female"],
+  "total_images": 50,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "accessories/headwrap/1.jpg",
+      "description": "each Turban Head wrap, women head tie , Asooke.Beautifully made women Turban Cap for every woman, Queens, Brides, Wedding & Party Guest.",
+      "gender": ["Female"],
+      "colors": ["Peach"],
+      "fabric": ["Handwoven Cloth"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "accessories/headwrap/2.jpg",
+      "description": "each Turban Head wrap, women head tie , Asooke.Beautifully made women Turban Cap for every woman, Queens, Brides, Wedding & Party Guest.",
+      "gender": ["Female"],
+      "colors": ["Peach"],
+      "fabric": ["Handwoven Cloth"]
+    },
+
+    {
+      "filename": "3.jpg",
+      "path": "accessories/headwrap/3.jpg",
+      "description": "Elegant Rhinestones Women's Pleated Turban Cap African Women Head Wraps",
+      "gender": ["Female"],
+      "colors": ["Silver"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "accessories/headwrap/4.jpg",
+      "description": "Elegant Rhinestones Women's Pleated Turban Cap African Women Head Wraps",
+      "gender": ["Female"],
+      "colors": ["Silver"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "accessories/headwrap/5.jpg",
+      "description": "White Embellished Head Wrap, Auto Gele/ Headgears/ Headwear/ Auto Gele fascinator ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "accessories/headwrap/6.jpg",
+      "description": "White Embellished Head Wrap, Auto Gele/ Headgears/ Headwear/ Auto Gele fascinator ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "accessories/headwrap/7.jpg",
+      "description": "Stylish Red Pre Styled Head Wrap - Pre tied Elegant Turban For Woman",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "accessories/headwrap/8.jpg",
+      "description": "Stylish Red Pre Styled Head Wrap - Pre tied Elegant Turban For Woman",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "accessories/headwrap/9.jpg",
+      "description": "Stylish Red Pre Styled Head Wrap - Pre tied Elegant Turban For Woman",
+      "gender": ["Female"],
+      "colors": ["Red"],
+      "fabric": ["Satin", "Silk"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "accessories/headwrap/10.jpg",
+      "description": "Madras / satin reversible wrap turban",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "accessories/headwrap/11.jpg",
+      "description": "Madras / satin reversible wrap turban",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "accessories/headwrap/12.jpg",
+      "description": "Madras / satin reversible wrap turban",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "accessories/headwrap/13.jpg",
+      "description": "Madras / satin reversible wrap turban",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "accessories/headwrap/14.jpg",
+      "description": "Ankara Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "accessories/headwrap/15.jpg",
+      "description": "Ankara Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "accessories/headwrap/16.jpg",
+      "description": "Ankara Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "accessories/headwrap/17.jpg",
+      "description": "Ankara Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "accessories/headwrap/18.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "accessories/headwrap/19.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "accessories/headwrap/20.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "accessories/headwrap/21.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "accessories/headwrap/22.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "accessories/headwrap/23.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "accessories/headwrap/24.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "accessories/headwrap/25.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "accessories/headwrap/26.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "accessories/headwrap/27.jpg",
+      "description": "Beautiful wax and satin wrap turban ",
+      "gender": ["Female"],
+      "colors": ["Burgundy"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "accessories/headwrap/28.jpg",
+      "description": "Beautiful wax and satin wrap turban ",
+      "gender": ["Female"],
+      "colors": ["Burgundy"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "accessories/headwrap/29.jpg",
+      "description": "African print head wrap and large disc earrings in a green geometric print.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "accessories/headwrap/30.jpg",
+      "description": "African print head wrap and large disc earrings in a green geometric print.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "accessories/headwrap/31.jpg",
+      "description": "African print head wrap and large disc earrings in a green geometric print.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "accessories/headwrap/32.jpg",
+      "description": "African print head wrap and large disc earrings in a green geometric print.",
+      "gender": ["Female"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "accessories/headwrap/33.jpg",
+      "description": "Kissa Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "accessories/headwrap/34.jpg",
+      "description": "RONKE BLUE HEADWRAP",
+      "gender": ["Female"],
+      "colors": ["Turquoise"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "accessories/headwrap/35.jpg",
+      "description": "RONKE BLUE HEADWRAP",
+      "gender": ["Female"],
+      "colors": ["Turquoise"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "accessories/headwrap/36.jpg",
+      "description": "RONKE BLUE HEADWRAP",
+      "gender": ["Female"],
+      "colors": ["Turquoise"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "accessories/headwrap/37.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "accessories/headwrap/38.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "accessories/headwrap/39.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "accessories/headwrap/40.jpg",
+      "description": "African Print Ankara Multicolor Dashiki Colorful Cotton Headwrap",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "accessories/headwrap/41.jpg",
+      "description": "Headwrap Turban Hat Headband Hat Wax Scarf Size M / Wax Bonnet Red Blue Yellow",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "accessories/headwrap/42.jpg",
+      "description": "Headwrap Turban Hat Headband Hat Wax Scarf Size M / Wax Bonnet Red Blue Yellow",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "accessories/headwrap/43.jpg",
+      "description": "Headwrap Turban Hat Headband Hat Wax Scarf Size M / Wax Bonnet Red Blue Yellow",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "accessories/headwrap/44.jpg",
+      "description": "Magnificent “Black Crystal” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "accessories/headwrap/45.jpg",
+      "description": "Magnificent “Black Crystal” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "accessories/headwrap/46.jpg",
+      "description": "Magnificent “Black Crystal” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "accessories/headwrap/47.jpg",
+      "description": "Magnificent “Black Crystal” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["Black"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "accessories/headwrap/48.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "accessories/headwrap/49.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Ankara", "Satin"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "accessories/headwrap/50.jpg",
+      "description": "Beautiful “Safia” wrap hat/turban",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Ankara", "Satin"]
+    }
+  ]
+}

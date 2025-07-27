@@ -1,0 +1,595 @@
+{
+  "category": "Cloak",
+  "description": "Flowing outer garment worn over the shoulders, adapted in African fashion using traditional fabrics like Ankara, Kente, or Bazin, often as part of modern couture, ceremonial wear, or fashion statements.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Senegal"],
+  "event": [
+    "Wedding",
+    "Fashion Show",
+    "Gala",
+    "Traditional Ceremony",
+    "Cultural Festival"
+  ],
+  "style": ["Couture", "Modern", "Traditional Fusion", "Statement Wear"],
+  "gender": ["Female", "Male"],
+  "total_images": 71,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "outerwear/cloak/1.jpg",
+      "description": "This Cisse Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "2.jpg",
+      "path": "outerwear/cloak/2.jpg",
+      "description": "This Cisse Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "3.jpg",
+      "path": "outerwear/cloak/3.jpg",
+      "description": "This Cisse Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "4.jpg",
+      "path": "outerwear/cloak/4.jpg",
+      "description": "This Frequency Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "5.jpg",
+      "path": "outerwear/cloak/5.jpg",
+      "description": "This Frequency Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "6.jpg",
+      "path": "outerwear/cloak/6.jpg",
+      "description": "This Frequency Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+
+    {
+      "filename": "7.jpg",
+      "path": "outerwear/cloak/7.jpg",
+      "description": "This Frequency Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "outerwear/cloak/8.jpg",
+      "description": "This Frequency Bogolan Cloak unisex piece was made using Mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Female", "Male"],
+      "colors": ["Black"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "outerwear/cloak/9.jpg",
+      "description": "This Circles Bogolan Cloak This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "outerwear/cloak/10.jpg",
+      "description": "This Circles Bogolan Cloak This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "outerwear/cloak/11.jpg",
+      "description": "This Circles Bogolan Cloak This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans, specially for you.",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "outerwear/cloak/12.jpg",
+      "description": "Fugu Cloak",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "outerwear/cloak/13.jpg",
+      "description": "Fugu Cloak",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "outerwear/cloak/14.jpg",
+      "description": "Fugu Cloak",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "outerwear/cloak/15.jpg",
+      "description": "Fugu Cloak",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+
+    {
+      "filename": "16.jpg",
+      "path": "outerwear/cloak/16.jpg",
+      "description": "Verte Bogolan Cloak",
+      "gender": ["Male"],
+      "colors": ["Green", "Brown"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "outerwear/cloak/17.jpg",
+      "description": "Verte Bogolan Cloak",
+      "gender": ["Male"],
+      "colors": ["Green", "Brown"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "outerwear/cloak/18.jpg",
+      "description": "Verte Bogolan Cloak",
+      "gender": ["Male"],
+      "colors": ["Green", "Brown"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "outerwear/cloak/19.jpg",
+      "description": "Verte Bogolan Cloak",
+      "gender": ["Male"],
+      "colors": ["Green", "Brown"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "outerwear/cloak/20.jpg",
+      "description": "Verte Bogolan Cloak",
+      "gender": ["Male"],
+      "colors": ["Green", "Brown"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "outerwear/cloak/21.jpg",
+      "description": "Abstract Bogolan Cloak",
+      "gender": ["Male", "Female"],
+      "colors": ["Green"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "outerwear/cloak/22.jpg",
+      "description": "Abstract Bogolan Cloak",
+      "gender": ["Male", "Female"],
+      "colors": ["Green"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "outerwear/cloak/23.jpg",
+      "description": "Abstract Bogolan Cloak",
+      "gender": ["Male", "Female"],
+      "colors": ["Green"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "outerwear/cloak/24.jpg",
+      "description": "Abstract Bogolan Cloak",
+      "gender": ["Male", "Female"],
+      "colors": ["Green"],
+      "fabric": ["Mudcloth", "Bogolan"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "outerwear/cloak/25.jpg",
+      "description": "Goldie Bogolan Cloak ",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "outerwear/cloak/26.jpg",
+      "description": "Goldie Bogolan Cloak ",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "outerwear/cloak/27.jpg",
+      "description": "Goldie Bogolan Cloak ",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "outerwear/cloak/28.jpg",
+      "description": " Bogolan Cloak ",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Bogolan", "Mudcloth", "Handwoven"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "outerwear/cloak/29.jpg",
+      "description": " Bogolan Cloak ",
+      "gender": ["Female"],
+      "colors": ["Brown"],
+      "fabric": ["Bogolan", "Mudcloth", "Handwoven"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "outerwear/cloak/30.jpg",
+      "description": " Citrine Bogolan Cloak.Made using bògòlanfini fabric, this cloak was handmade in Accra, Ghana with care and intention for you.",
+      "gender": ["Male"],
+      "colors": ["Brown"],
+      "fabric": ["Bogolan", "Mudcloth", "Handwoven"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "outerwear/cloak/31.jpg",
+      "description": " Citrine Bogolan Cloak.Made using bògòlanfini fabric, this cloak was handmade in Accra, Ghana with care and intention for you.",
+      "gender": ["Male"],
+      "colors": ["Brown"],
+      "fabric": ["Bogolan", "Mudcloth", "Handwoven"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "outerwear/cloak/32.jpg",
+      "description": " Citrine Bogolan Cloak.Made using bògòlanfini fabric, this cloak was handmade in Accra, Ghana with care and intention for you.",
+      "gender": ["Male"],
+      "colors": ["Brown"],
+      "fabric": ["Bogolan", "Mudcloth", "Handwoven"]
+    },
+
+    {
+      "filename": "33.jpg",
+      "path": "outerwear/cloak/33.jpg",
+      "description": "Haven Baulé Cloak.This cloak is made using Baulé from C'ôte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "outerwear/cloak/34.jpg",
+      "description": "Haven Baulé Cloak.This cloak is made using Baulé from C'ôte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "outerwear/cloak/35.jpg",
+      "description": "Haven Baulé Cloak.This cloak is made using Baulé from C'ôte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "outerwear/cloak/36.jpg",
+      "description": "Fugu Cloak.This cloak was made using fugu from the Upper West Region of Ghana and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "outerwear/cloak/37.jpg",
+      "description": "Fugu Cloak.This cloak was made using fugu from the Upper West Region of Ghana and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "outerwear/cloak/38.jpg",
+      "description": "Fugu Cloak.This cloak was made using fugu from the Upper West Region of Ghana and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "outerwear/cloak/39.jpg",
+      "description": "Fugu Cloak.This cloak was made using fugu from the Upper West Region of Ghana and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+
+    {
+      "filename": "40.jpg",
+      "path": "outerwear/cloak/40.jpg",
+      "description": "Pinkish baule cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Baule Fabric"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "outerwear/cloak/41.jpg",
+      "description": "Pinkish baule cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Female"],
+      "colors": ["Multicolored"],
+      "fabric": ["Baule Fabric"]
+    },
+
+    {
+      "filename": "42.jpg",
+      "path": "outerwear/cloak/42.jpg",
+      "description": "Baule Cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "outerwear/cloak/43.jpg",
+      "description": "Baule Cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "outerwear/cloak/44.jpg",
+      "description": "Baule Cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "outerwear/cloak/45.jpg",
+      "description": "Baule Cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "outerwear/cloak/46.jpg",
+      "description": "Baule Cloak.This cloak is made using Baulé from Côte d'Ivoire and is part of our sustainably sourced & produced collection of progressive pieces. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "outerwear/cloak/47.jpg",
+      "description": "Bogolan Cloak.This cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana with care & love specially for you. ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "outerwear/cloak/48.jpg",
+      "description": "Bogolan Cloak.This cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana with care & love specially for you. ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "outerwear/cloak/49.jpg",
+      "description": "Bogolan Cloak.This cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana with care & love specially for you. ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "outerwear/cloak/50.jpg",
+      "description": "Bogolan Cloak.This cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana with care & love specially for you. ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "outerwear/cloak/51.jpg",
+      "description": "Bogolan Cloak.This cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana with care & love specially for you. ",
+      "gender": ["Female"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "outerwear/cloak/52.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "outerwear/cloak/53.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "outerwear/cloak/54.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "outerwear/cloak/55.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "outerwear/cloak/56.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Black", "Brown"],
+      "fabric": ["Cotton", "Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "outerwear/cloak/57.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Black", "Brown"],
+      "fabric": ["Cotton", "Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "outerwear/cloak/58.jpg",
+      "description": "Hooded Bogolan Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. ",
+      "gender": ["Male"],
+      "colors": ["Black", "Brown"],
+      "fabric": ["Cotton", "Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "outerwear/cloak/59.jpg",
+      "description": "Cosmic Warrior Bogolan Cloak.This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans ",
+      "gender": ["Female"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "60.jpg",
+      "path": "outerwear/cloak/60.jpg",
+      "description": "Cosmic Warrior Bogolan Cloak.This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans ",
+      "gender": ["Female"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "61.jpg",
+      "path": "outerwear/cloak/61.jpg",
+      "description": "Cosmic Warrior Bogolan Cloak.This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans ",
+      "gender": ["Female"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "62.jpg",
+      "path": "outerwear/cloak/62.jpg",
+      "description": "Cosmic Warrior Bogolan Cloak.This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans ",
+      "gender": ["Female"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "63.jpg",
+      "path": "outerwear/cloak/63.jpg",
+      "description": "Cosmic Warrior Bogolan Cloak.This piece was made using mudcloth from Mali and is one in a collection of sustainably sourced progressive pieces, handmade in Ghana by Ghanaian artisans ",
+      "gender": ["Female"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Bogolan", "Mudcloth"]
+    },
+    {
+      "filename": "64.jpg",
+      "path": "outerwear/cloak/64.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "65.jpg",
+      "path": "outerwear/cloak/65.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "66.jpg",
+      "path": "outerwear/cloak/66.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "67.jpg",
+      "path": "outerwear/cloak/67.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "68.jpg",
+      "path": "outerwear/cloak/68.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "69.jpg",
+      "path": "outerwear/cloak/69.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "70.jpg",
+      "path": "outerwear/cloak/70.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "71.jpg",
+      "path": "outerwear/cloak/71.jpg",
+      "description": "White Frequency Hooded Cloak.This dementor cloak is made using the Bògòlanfini fabric (also known as Mudcloth) from Mali. Each cloak is handmade in Ghana ",
+      "gender": ["Female", "Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "category": "kaftans",
+  "description": "Loose-fitting, long robe with wide sleeves, typically worn in West Africa and the Middle East. Kaftans are versatile garments made from luxurious fabrics and often feature embroidery or decorative patterns. They are worn by both men and women for cultural, religious, and formal occasions.",
+  "regions": [
+    "Nigeria",
+    "Senegal",
+    "Mali",
+    "Morocco",
+    "Gambia",
+    "Ghana",
+    "Niger",
+    "African Diaspora (USA, Europe)"
+  ],
+  "event": [
+    "Weddings",
+    "Religious Gatherings",
+    "Naming Ceremonies",
+    "Eid Celebrations",
+    "Funerals",
+    "Cultural Festivals",
+    "Formal Occasions"
+  ],
+  "style": ["Traditional", "Elegant", "Cultural", "Formal", "Comfort Wear"],
+  "gender": ["Male", "Female"],
+  "total_images": 63,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "traditional_wear/kaftan/1.jpg",
+      "description": "Male kaftan  for formal occasions.",
+      "gender": ["Male"],
+      "colors": ["Gray"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "traditional_wear/kaftan/2.jpg",
+      "description": "A lemon green Kaftan for men",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton", "Silk"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "traditional_wear/kaftan/3.jpg",
+      "description": " kaftan with bold Ankara prints and loose, comfortable fit. with embroidery",
+      "gender": ["Male"],
+      "colors": ["Brown"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "traditional_wear/kaftan/4.jpg",
+      "description": "A white kaftan with with  bold embroidery comfortable fit. ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "traditional_wear/kaftan/5.jpg",
+      "description": "A Green kaftan with with  bold embroidery comfortable fit. ",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "traditional_wear/kaftan/6.jpg",
+      "description": "A red Kaftan worn by a male. Suited for formal occasions ",
+      "gender": ["Male"],
+      "colors": ["Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "traditional_wear/kaftan/7.jpg",
+      "description": "A gray Kaftan Suited for formal occasions ",
+      "gender": ["Male"],
+      "colors": ["Gray"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "traditional_wear/kaftan/8.jpg",
+      "description": "A White Kaftan with bold embroidery Suited for formal occasions and events ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "traditional_wear/kaftan/9.jpg",
+      "description": "Black Kaftan worn by a male ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "traditional_wear/kaftan/10.jpg",
+      "description": "Black Kaftan worn by a male ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "traditional_wear/kaftan/11.jpg",
+      "description": "Blue Kaftan worn by a male ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "traditional_wear/kaftan/13.jpg",
+      "description": "A simple  Green Kaftan Suited for formal occasions ",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/kaftan/14.jpg",
+      "description": "A formal Kaftan with a cap worn for professional events ",
+      "gender": ["Male"],
+      "colors": ["Gray", "blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/kaftan/14.jpg",
+      "description": "A formal Kaftan with a cap worn for professional events ",
+      "gender": ["Male"],
+      "colors": ["Gray", "blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "traditional_wear/kaftan/15.jpg",
+      "description": "A beautiful handmade Kaftan wuitable for all events ",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "traditional_wear/kaftan/16.jpg",
+      "description": "A nice kaftan suited for parties, and all forms of outdoor events ",
+      "gender": ["Female"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "traditional_wear/kaftan/17.jpg",
+      "description": "Standard Made Kaftan suited for all occasions ",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "traditional_wear/kaftan/18.jpg",
+      "description": "A White Kaftan  Suited for formal occasions and events ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "traditional_wear/kaftan/19.jpg",
+      "description": "Short hands kaftan made from cotton ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "traditional_wear/kaftan/20.jpg",
+      "description": "A Very professional and standard made Kaftan made for all your beautiful occassions ",
+      "gender": ["Male"],
+      "colors": ["Silver", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "traditional_wear/kaftan/21.jpg",
+      "description": "Very beautiful Kaftan beautifully designed for all professionals ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "traditional_wear/kaftan/22.jpg",
+      "description": "Very beautiful Kaftan beautifully designed for all professionals ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "traditional_wear/kaftan/23.jpg",
+      "description": "Very beautiful Kaftan beautifully designed for all professionals ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "traditional_wear/kaftan/24.jpg",
+      "description": "Standard Made Kaftan suited for all occasions. ",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "traditional_wear/kaftan/25.jpg",
+      "description": "Beautifully made Kaftan  with standard designs made for all programs and occassions",
+      "gender": ["Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "traditional_wear/kaftan/26.jpg",
+      "description": "Classic Teal Kaftan with Gold Trimmings",
+      "gender": ["Male"],
+      "colors": ["Teal"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "traditional_wear/kaftan/27.jpg",
+      "description": "Understated elegance, perfect for everyday wear or quiet ceremonies. A Kaftan Made for experts",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "traditional_wear/kaftan/28.jpg",
+      "description": "Black Kaftan with White Contrast Stitching",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "traditional_wear/kaftan/29.jpg",
+      "description": "Standard Made Kaftan suited for all occasions. This comes in white. But we can make available any of your choice ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "traditional_wear/kaftan/30.jpg",
+      "description": "Expert made Kaftan Great for casual outings, festivals, and creative events. ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "traditional_wear/kaftan/31.jpg",
+      "description": "Multicolor Ankara Kaftan (Casual Style) ",
+      "gender": ["Male"],
+      "colors": ["White", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "traditional_wear/kaftan/32.jpg",
+      "description": "Multicolor Ankara Kaftan (Casual Style) ",
+      "gender": ["Male"],
+      "colors": ["Black", "Pink"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "traditional_wear/kaftan/33.jpg",
+      "description": "White  Kaftan with Subtle multi Accents ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "traditional_wear/kaftan/34.jpg",
+      "description": "Multicolor Ankara Kaftan (Casual Style)",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "traditional_wear/kaftan/35.jpg",
+      "description": "Gold Kaftan with Subtle Black Accents",
+      "gender": ["Male"],
+      "colors": ["Gold", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "traditional_wear/kaftan/36.jpg",
+      "description": "Golden Kaftan made with love .Soft, neutral tone with just enough detail for elegance.",
+      "gender": ["Male"],
+      "colors": ["Gold"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "traditional_wear/kaftan/37.jpg",
+      "description": "Beautifully made Gray  Kaftans with standard, timeless designs",
+      "gender": ["Male"],
+      "colors": ["Gray"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "traditional_wear/kaftan/38.jpg",
+      "description": " A Mauve Kaftan crafted to fit all programs and occasions, from weddings and religious gatherings to cultural festivals and everyday elegance",
+      "gender": ["Male"],
+      "colors": ["Mauve"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "traditional_wear/kaftan/39.jpg",
+      "description": "A beautiful handmade Kaftan suitable for all events ",
+      "gender": ["Male"],
+      "colors": ["Brown", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "traditional_wear/kaftan/40.jpg",
+      "description": "A beautiful handmade Kaftan suitable for all events with beautiful Adinkra patterns ",
+      "gender": ["Male"],
+      "colors": ["Brown", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "traditional_wear/kaftan/41.jpg",
+      "description": "A beautiful handmade Kaftan suitable for all events ",
+      "gender": ["Male"],
+      "colors": ["Brown", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "traditional_wear/kaftan/41.jpg",
+      "description": "Multicolor Ankara Kaftan (Casual Style) ",
+      "gender": ["Male"],
+      "colors": ["Brown", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "traditional_wear/kaftan/42.jpg",
+      "description": "AFRICAN MADE KAFTAN SUITED FOR ALL YOUR BEAUTIFUL CEREMONIES ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "traditional_wear/kaftan/43.jpg",
+      "description": "AFRICAN MADE KAFTAN SUITED FOR ALL YOUR BEAUTIFUL CEREMONIES ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "traditional_wear/kaftan/44.jpg",
+      "description": "AFRICAN MADE KAFTAN SUITED FOR ALL YOUR BEAUTIFUL CEREMONIES ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "traditional_wear/kaftan/45.jpg",
+      "description": "AFRICAN MADE KAFTAN SUITED FOR ALL YOUR BEAUTIFUL CEREMONIES ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "traditional_wear/kaftan/46.jpg",
+      "description": "Hgh standard African Kaftan Print made for people of class",
+      "gender": ["Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "traditional_wear/kaftan/47.jpg",
+      "description": "Hgh standard African Kaftan Print made for people of class",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "traditional_wear/kaftan/48.jpg",
+      "description": "Hgh standard African Kaftan Print made for people of class",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "traditional_wear/kaftan/49.jpg",
+      "description": "The Best Kaftan that would suit you in all your events.",
+      "gender": ["Male"],
+      "colors": ["Red"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "traditional_wear/kaftan/50.jpg",
+      "description": "Beautiful Blue Kaftan Made with love. ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "traditional_wear/kaftan/51.jpg",
+      "description": "Expert Made White  Kaftan with Blue strides ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "traditional_wear/kaftan/52.jpg",
+      "description": "High Quality Kaftan Perfect for grand celebrations, weddings, and high-class events.",
+      "gender": ["Male"],
+      "colors": ["Brown", "White"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "traditional_wear/kaftan/53.jpg",
+      "description": "Senior Level Black Kaftan ",
+      "gender": ["Male"],
+      "colors": ["Black"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "traditional_wear/kaftan/54.jpg",
+      "description": "Senior Level White Kaftan and beautiful corresponding cap ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "traditional_wear/kaftan/55.jpg",
+      "description": "Expereince Beautiful Kaftan Soft, that comes with  neutral tone with just enough detail for elegance. ",
+      "gender": ["Male"],
+      "colors": ["White"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "traditional_wear/kaftan/56.jpg",
+      "description": "Orange Kaftan ",
+      "gender": ["Male"],
+      "colors": ["Orange"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "traditional_wear/kaftan/57.jpg",
+      "description": "Standard Made Kaftan suited for all occasions ",
+      "gender": ["Male"],
+      "colors": ["Blue", "Yellow"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "traditional_wear/kaftan/58.jpg",
+      "description": "Standard Made Kaftan suited for all occasions ",
+      "gender": ["Male"],
+      "colors": ["Orange"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "traditional_wear/kaftan/59.jpg",
+      "description": "Standard Made Kaftan suited for all occasions ",
+      "gender": ["Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "60.jpg",
+      "path": "traditional_wear/kaftan/60.jpg",
+      "description": "Standard Made Kaftan suited for all occasions ",
+      "gender": ["Male"],
+      "colors": ["Black", "Blue"],
+      "fabric": ["Cotton", "Ankara"]
+    }
+  ]
+}
