@@ -1,0 +1,32 @@
+{
+  "category": "shorts",
+  "description": "Short-length trousers typically worn in warm weather, styled in various African fabrics for a bold and trendy look.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Uganda", "Tanzania"],
+  "event": [
+    "Casual Outing",
+    "Beach Party",
+    "Street Style",
+    "Cultural Festival"
+  ],
+  "style": ["Casual", "Urban", "Trendy"],
+  "gender": ["Male", "Female"],
+  "total_images": 28,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "bottoms/shorts/1.jpg",
+      "description": "Ankara shorts with matching shirt for a coordinated summer look",
+      "colors": ["green", "yellow", "black"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "bottoms/shorts/2.jpg",
+      "description": "High-waisted African print shorts paired with a plain white tee",
+      "colors": ["blue", "white"],
+      "fabric": ["Cotton", "Polyester"],
+      "gender": ["Female"]
+    }
+  ]
+}

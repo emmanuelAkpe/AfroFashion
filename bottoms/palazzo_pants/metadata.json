@@ -1,0 +1,27 @@
+{
+  "category": "palazzo pants",
+  "description": "Flowy wide-leg trousers that blend comfort and elegance, popular for both casual and formal occasions, often styled with bold African prints.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya"],
+  "event": ["Casual Outing", "Party", "Cultural Festival", "Office Wear"],
+  "style": ["Casual", "Chic", "Formal"],
+  "gender": ["Female"],
+  "total_images": 36,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "bottoms/palazzo_pants/1.jpg",
+      "description": "African print palazzo pants paired with a white crop top",
+      "colors": ["red", "yellow", "black"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "bottoms/palazzo_pants/2.jpg",
+      "description": "High-waist palazzo pants with geometric patterns",
+      "colors": ["blue", "orange"],
+      "fabric": ["Silk", "Polyester"],
+      "gender": ["Female"]
+    }
+  ]
+}

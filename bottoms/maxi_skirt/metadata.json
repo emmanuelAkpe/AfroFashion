@@ -1,0 +1,307 @@
+{
+  "category": "maxi_skirt",
+  "description": "Long, flowing skirts made with African prints or solid fabrics, popular for both traditional and modern looks, suitable for a range of occasions from casual to ceremonial.",
+  "regions": ["Nigeria", "Ghana", "Ethiopia", "South Africa", "Tanzania"],
+  "event": ["Wedding", "Traditional Ceremony", "Church", "Casual Outing"],
+  "style": ["Traditional", "Contemporary", "Casual", "Elegant"],
+  "gender": ["Female"],
+  "total_images": 35,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "bottoms/maxi_skirt/1.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Brown"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "bottoms/maxi_skirt/2.jpg",
+      "description": "Ankara Maxi Skirt, Ankara Plus Size Skirt, African Print Maxi Skirt, Maxi Skirt with Slit",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "bottoms/maxi_skirt/3.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "bottoms/maxi_skirt/4.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "bottoms/maxi_skirt/5.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Yellow"],
+      "fabric": ["Ankara", "Dashiki"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "bottoms/maxi_skirt/6.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "bottoms/maxi_skirt/7.jpg",
+      "description": "Ankara maxi skirt, African print maxi skirt, African skirt, Ankara gathered skirt",
+      "colors": ["Brown"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "bottoms/maxi_skirt/8.jpg",
+      "description": "Maxi skirt",
+      "colors": ["Black"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "bottoms/maxi_skirt/9.jpg",
+      "description": "Ankara Maxi Skirt.Maxi skirt made with 100% cotton ankara fabric.",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "bottoms/maxi_skirt/10.jpg",
+      "description": "Ankara Maxi Skirt.Maxi skirt made with 100% cotton ankara fabric.",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "bottoms/maxi_skirt/10.jpg",
+      "description": "Ankara Maxi Skirt.Maxi skirt made with 100% cotton ankara fabric.",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "bottoms/maxi_skirt/11.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "bottoms/maxi_skirt/12.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "bottoms/maxi_skirt/13.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "bottoms/maxi_skirt/14.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "bottoms/maxi_skirt/15.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Purple"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "bottoms/maxi_skirt/16.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Purple"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "bottoms/maxi_skirt/17.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "bottoms/maxi_skirt/18.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "bottoms/maxi_skirt/19.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "bottoms/maxi_skirt/20.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "bottoms/maxi_skirt/21.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "bottoms/maxi_skirt/22.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "bottoms/maxi_skirt/23.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "bottoms/maxi_skirt/24.jpg",
+      "description": "Beautiful high waist maxi skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "bottoms/maxi_skirt/25.jpg",
+      "description": "Ready to sleigh the season in the Rheena Maxi Skirt",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "bottoms/maxi_skirt/26.jpg",
+      "description": "Ready to sleigh the season in the Rheena Maxi Skirt",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "bottoms/maxi_skirt/27.jpg",
+      "description": "Ready to sleigh the season in the Rheena Maxi Skirt",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "bottoms/maxi_skirt/28.jpg",
+      "description": "The vibrant, colorful maxi skirt is a versatile and stylish addition to any wardrobe.",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "bottoms/maxi_skirt/29.jpg",
+      "description": "The vibrant, colorful maxi skirt is a versatile and stylish addition to any wardrobe.",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "bottoms/maxi_skirt/30.jpg",
+      "description": "Maxi skirt, long Bella darling wax skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "bottoms/maxi_skirt/31.jpg",
+      "description": "Maxi skirt, long Bella darling wax skirt",
+      "colors": ["Multicoloured"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "bottoms/maxi_skirt/32.jpg",
+      "description": "Long loincloth skirt. The essential bohemian wax skirt with its large practical pockets. Skirt length between 105 and 115 cm. ",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "bottoms/maxi_skirt/33.jpg",
+      "description": "Long loincloth skirt. The essential bohemian wax skirt with its large practical pockets. Skirt length between 105 and 115 cm. ",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "bottoms/maxi_skirt/34.jpg",
+      "description": "BOGOLAN wax maxi skirt",
+      "colors": ["Brown"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "bottoms/maxi_skirt/35.jpg",
+      "description": "Blue maxi skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "bottoms/maxi_skirt/36.jpg",
+      "description": "Blue maxi skirt",
+      "colors": ["Blue"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    }
+  ]
+}

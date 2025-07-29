@@ -1,0 +1,27 @@
+{
+  "category": "trouser pants",
+  "description": "Full-length pants tailored in African prints or solid colors, often worn for formal or semi-formal occasions, blending tradition and contemporary fashion.",
+  "regions": ["Nigeria", "Ghana", "Kenya", "South Africa", "Cameroon"],
+  "event": ["Office Wear", "Wedding", "Traditional Ceremony", "Casual Outing"],
+  "style": ["Formal", "Semi-formal", "Traditional", "Contemporary"],
+  "gender": ["Male", "Female"],
+  "total_images": 35,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "bottoms/trouser pants/1.jpg",
+      "description": "Slim-fit Ankara trousers paired with a plain blazer",
+      "colors": ["red", "blue"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "bottoms/trouser pants/2.jpg",
+      "description": "Wide-leg African print trousers for a stylish formal look",
+      "colors": ["orange", "brown"],
+      "fabric": ["Kente", "Silk"],
+      "gender": ["Female"]
+    }
+  ]
+}
