@@ -1,32 +1,251 @@
 {
   "category": "shorts",
-  "description": "Short-length trousers typically worn in warm weather, styled in various African fabrics for a bold and trendy look.",
-  "regions": ["Nigeria", "Ghana", "South Africa", "Uganda", "Tanzania"],
-  "event": [
-    "Casual Outing",
-    "Beach Party",
-    "Street Style",
-    "Cultural Festival"
-  ],
-  "style": ["Casual", "Urban", "Trendy"],
+  "description": "Above-the-knee bottoms made with vibrant African prints or plain fabrics, designed for comfort and style in warm climates, often worn casually or at social gatherings.",
+  "regions": ["Nigeria", "Ghana", "Uganda", "South Africa", "Togo"],
+  "event": ["Casual Outing", "Beach Day", "Festival", "Home Wear"],
+  "style": ["Casual", "Trendy", "Urban", "Relaxed"],
   "gender": ["Male", "Female"],
-  "total_images": 28,
+  "total_images": 35,
   "images": [
     {
       "filename": "1.jpg",
       "path": "bottoms/shorts/1.jpg",
-      "description": "Ankara shorts with matching shirt for a coordinated summer look",
-      "colors": ["green", "yellow", "black"],
-      "fabric": ["Ankara", "Cotton"],
-      "gender": ["Male"]
+      "description": "Wax shorts, jeans shorts, summer shorts, wax yellow ethnic shorts and sea flowers",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
     },
     {
       "filename": "2.jpg",
       "path": "bottoms/shorts/2.jpg",
-      "description": "High-waisted African print shorts paired with a plain white tee",
-      "colors": ["blue", "white"],
-      "fabric": ["Cotton", "Polyester"],
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
       "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "bottoms/shorts/3.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "bottoms/shorts/4.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "bottoms/shorts/5.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "bottoms/shorts/6.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "bottoms/shorts/7.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "bottoms/shorts/8.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "bottoms/shorts/10.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "bottoms/shorts/11.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "bottoms/shorts/12.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "bottoms/shorts/13.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "bottoms/shorts/14.jpg",
+      "description": "African fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "bottoms/shorts/15.jpg",
+      "description": "African fabric - Black",
+      "colors": ["Black"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "bottoms/shorts/16.jpg",
+      "description": "Pleated Shorts -Blue",
+      "colors": ["Blue"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "bottoms/shorts/17.jpg",
+      "description": "Pleated Shorts Red",
+      "colors": ["Red"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "bottoms/shorts/18.jpg",
+      "description": "Pleated Shorts Red",
+      "colors": ["Red"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "bottoms/shorts/19.jpg",
+      "description": "Pleated Shorts Orange",
+      "colors": ["Orange"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "bottoms/shorts/20.jpg",
+      "description": "This pair of baggy shorts was made using fugu from the Upper West region of Ghana.e",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Fugu"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "bottoms/shorts/21.jpg",
+      "description": "This pair of baggy shorts was made using fugu from the Upper West region of Ghana.e",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Fugu"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "bottoms/shorts/22.jpg",
+      "description": "Sylvia short take cues from traditional menswear. Tailored from hand-dyed linen, has a high- rise and relaxed legs outlined with sharp pleats",
+      "colors": ["Blue"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "bottoms/shorts/23.jpg",
+      "description": "Sylvia short take cues from traditional menswear. Tailored from hand-dyed linen, has a high- rise and relaxed legs outlined with sharp pleats",
+      "colors": ["Blue"],
+      "fabric": ["Cotton"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "bottoms/shorts/24.jpg",
+      "description": "SHORTS in BATIK fabric with CORD at the waist (adjustable) Made by our artists.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Batik"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "bottoms/shorts/25.jpg",
+      "description": "SHORTS in wax fabric with CORD at the waist (adjustable.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "bottoms/shorts/26.jpg",
+      "description": "SHORTS in wax fabric with CORD at the waist (adjustable.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "bottoms/shorts/27.jpg",
+      "description": "SHORTS in wax fabric with CORD at the waist (adjustable.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "bottoms/shorts/28.jpg",
+      "description": "SHORTS in wax fabric with CORD at the waist (adjustable.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "bottoms/shorts/29.jpg",
+      "description": "The fugu shorts are the perfect closet staple to pair with your favourite tee or our very own fugu shirts for a vibrant co-ord look.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Fugu"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "bottoms/shorts/30.jpg",
+      "description": "The fugu shorts are the perfect closet staple to pair with your favourite tee or our very own fugu shirts for a vibrant co-ord look.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Fugu"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "bottoms/shorts/31.jpg",
+      "description": "The fugu shorts are the perfect closet staple to pair with your favourite tee or our very own fugu shirts for a vibrant co-ord look.",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Fugu"],
+      "gender": ["Male"]
     }
   ]
 }

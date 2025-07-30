@@ -1,26 +1,250 @@
 {
-  "category": "palazzo pants",
-  "description": "Flowy wide-leg trousers that blend comfort and elegance, popular for both casual and formal occasions, often styled with bold African prints.",
-  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya"],
-  "event": ["Casual Outing", "Party", "Cultural Festival", "Office Wear"],
-  "style": ["Casual", "Chic", "Formal"],
+  "category": "palazzo_pants",
+  "description": "Wide-legged pants made from African prints or soft flowing fabrics, offering comfort and elegance for both casual and semi-formal settings.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya", "Senegal"],
+  "event": ["Office Wear", "Casual Outing", "Brunch", "Cultural Festival"],
+  "style": ["Chic", "Contemporary", "Casual", "Elegant"],
   "gender": ["Female"],
-  "total_images": 36,
+  "total_images": 35,
   "images": [
     {
       "filename": "1.jpg",
       "path": "bottoms/palazzo_pants/1.jpg",
-      "description": "African print palazzo pants paired with a white crop top",
-      "colors": ["red", "yellow", "black"],
-      "fabric": ["Cotton", "Ankara"],
+      "description": "Palazzo pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
       "gender": ["Female"]
     },
     {
       "filename": "2.jpg",
       "path": "bottoms/palazzo_pants/2.jpg",
-      "description": "High-waist palazzo pants with geometric patterns",
-      "colors": ["blue", "orange"],
-      "fabric": ["Silk", "Polyester"],
+      "description": "Blue Palazzo pants",
+      "colors": ["Blue"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "bottoms/palazzo_pants/3.jpg",
+      "description": "Yellow Palazzo pants",
+      "colors": ["Yellow"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "bottoms/palazzo_pants/4.jpg",
+      "description": "Black Palazzo pants",
+      "colors": ["Black"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "bottoms/palazzo_pants/5.jpg",
+      "description": "Orange Palazzo pants",
+      "colors": ["Orange"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "bottoms/palazzo_pants/6.jpg",
+      "description": "Ankara Palazzo Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "bottoms/palazzo_pants/7.jpg",
+      "description": "Ankara Palazzo Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "bottoms/palazzo_pants/8.jpg",
+      "description": "Ankara Palazzo Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "bottoms/palazzo_pants/9.jpg",
+      "description": "Ankara Palazzo Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "bottoms/palazzo_pants/10.jpg",
+      "description": "Ankara Palazzo Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "bottoms/palazzo_pants/11.jpg",
+      "description": "Palazzo Pants - Purple",
+      "colors": ["Purple"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "bottoms/palazzo_pants/12.jpg",
+      "description": "Palazzo Pants - Purple",
+      "colors": ["Purple"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "bottoms/palazzo_pants/13.jpg",
+      "description": "Palazzo Pants - Purple",
+      "colors": ["Purple"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "bottoms/palazzo_pants/14.jpg",
+      "description": "Palazzo Pants - Purple",
+      "colors": ["Purple"],
+      "fabric": ["Polyester"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "bottoms/palazzo_pants/15.jpg",
+      "description": "Palazzo Pants - Wine",
+      "colors": ["Wine"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "bottoms/palazzo_pants/16.jpg",
+      "description": "Palazzo Pants - Wine",
+      "colors": ["Wine"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "bottoms/palazzo_pants/17.jpg",
+      "description": "Palazzo Pants - Wine",
+      "colors": ["Wine"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "bottoms/palazzo_pants/18.jpg",
+      "description": "Palazzo Pants - Red",
+      "colors": ["Red"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "bottoms/palazzo_pants/19.jpg",
+      "description": "Palazzo Pants - Red",
+      "colors": ["Red"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "bottoms/palazzo_pants/20.jpg",
+      "description": "Palazzo Pants - Red",
+      "colors": ["Red"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "bottoms/palazzo_pants/21.jpg",
+      "description": "Palazzo Pants - Yellow",
+      "colors": ["Yellow"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "bottoms/palazzo_pants/22.jpg",
+      "description": "Palazzo Pants - Yellow",
+      "colors": ["Yellow"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "bottoms/palazzo_pants/23.jpg",
+      "description": "wide-legged palazzo pants - Black",
+      "colors": ["Black"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "bottoms/palazzo_pants/24.jpg",
+      "description": "wide-legged palazzo pants - Black",
+      "colors": ["Black"],
+      "fabric": ["Polyester", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "bottoms/palazzo_pants/25.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "bottoms/palazzo_pants/26.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "bottoms/palazzo_pants/27.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "bottoms/palazzo_pants/28.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "bottoms/palazzo_pants/29.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "bottoms/palazzo_pants/30.jpg",
+      "description": "Ankara Wide Leg Pants|Palazzo Pant for Women|Elastic Waist Pants| Summer Pants |African Print Pants",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
       "gender": ["Female"]
     }
   ]
