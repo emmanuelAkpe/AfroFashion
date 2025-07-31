@@ -1,0 +1,483 @@
+{
+  "category": "peplum tops",
+  "description": "Fitted tops with flared hems made from African fabrics like Ankara or Kente, combining elegance and femininity, perfect for both formal and casual settings.",
+  "regions": ["Nigeria", "Ghana", "Cameroon", "South Africa", "Ivory Coast"],
+  "event": ["Wedding", "Traditional Ceremony", "Office Wear", "Casual Outing"],
+  "style": ["Elegant", "Traditional", "Contemporary", "Chic"],
+  "gender": ["Female"],
+  "total_images": 35,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "tops/peplum_tops/1.jpg",
+      "description": "A multicolred Ankara peplum top ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "tops/peplum_tops/2.jpg",
+      "description": "A purple peplum blouse with matching belt detail",
+      "colors": ["Purple"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "tops/peplum_tops/3.jpg",
+      "description": "A purple peplum blouse with matching belt detail-the backside",
+      "colors": ["Purple"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "tops/peplum_tops/4.jpg",
+      "description": "A Blue peplum Top with a flared hem",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "tops/peplum_tops/5.jpg",
+      "description": "A Blue peplum Top with a flared hem -backside",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "tops/peplum_tops/6.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant orange color",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "tops/peplum_tops/7.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant orange color -side view",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "tops/peplum_tops/8.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant orange color-Back view ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "tops/peplum_tops/9.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant Red color ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "tops/peplum_tops/10.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant Red color -Back view",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "tops/peplum_tops/11.jpg",
+      "description": "A multicolred Ankara peplum top  with domiant Red color -Side view",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "tops/peplum_tops/12.jpg",
+      "description": "A multicolred Ankara peplum top  with puffed sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "tops/peplum_tops/13.jpg",
+      "description": "A multicolred Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "tops/peplum_tops/14.jpg",
+      "description": "A multicolred Ankara peplum top  with puffed sleeves with dominant blue color",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "tops/peplum_tops/15.jpg",
+      "description": "A multicolred Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "tops/peplum_tops/16.jpg",
+      "description": "A black and white  Ankara peplum top",
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "tops/peplum_tops/17.jpg",
+      "description": "A black and white  Ankara peplum top - Side view",
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "tops/peplum_tops/18.jpg",
+      "description": "A black and white  Ankara peplum top - Back view",
+      "colors": ["Black", "White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "tops/peplum_tops/19.jpg",
+      "description": "A Red peplum top  with Puffed sleeves",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "tops/peplum_tops/20.jpg",
+      "description": "A multicolred Ankara peplum top ",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "tops/peplum_tops/21.jpg",
+      "description": "A Blue Ankara peplum top with long sleeves",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "tops/peplum_tops/22.jpg",
+      "description": "A multicolred Ankara peplum top ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "tops/peplum_tops/23.jpg",
+      "description": "A Blue Ankara peplum top with  sleeves",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "tops/peplum_tops/24.jpg",
+      "description": "A Multicolored  peplum Blouse with  sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "tops/peplum_tops/25.jpg",
+      "description": "A Teal  peplum Blouse with a puffed arm and long sleeves",
+      "colors": ["Teal"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "tops/peplum_tops/26.jpg",
+      "description": "A Multicolored  peplum Blouse",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "tops/peplum_tops/27.jpg",
+      "description": "A Multicolored  peplum Blouse",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "tops/peplum_tops/28.jpg",
+      "description": "A Multicolored  peplum Blouse with dominant Pink color",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "tops/peplum_tops/29.jpg",
+      "description": "A Multicolored  peplum Blouse with dominant Blue color",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "tops/peplum_tops/30.jpg",
+      "description": "A Multicolored  peplum Top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "tops/peplum_tops/31.jpg",
+      "description": "A Multicolored  peplum Top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "tops/peplum_tops/32.jpg",
+      "description": "A Multicolored  peplum Top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "tops/peplum_tops/33.jpg",
+      "description": "A Multicolored  peplum Top with Dominant Blue color",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "tops/peplum_tops/34.jpg",
+      "description": "A Wine  peplum Top with Dominant ",
+      "colors": ["Wine"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "tops/peplum_tops/35.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "tops/peplum_tops/36.jpg",
+      "description": "A Multicolored  peplum Blouse with  sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "tops/peplum_tops/37.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "tops/peplum_tops/38.jpg",
+      "description": "A Multicolored  peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "tops/peplum_tops/39.jpg",
+      "description": "A White peplum top with black dots",
+      "colors": ["White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "tops/peplum_tops/40.jpg",
+      "description": "A Orange peplum top ",
+      "colors": ["Orange"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "tops/peplum_tops/41.jpg",
+      "description": "A multicolored Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "tops/peplum_tops/42.jpg",
+      "description": "A Red Ankara peplum top with blue flowers",
+      "colors": ["Red"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "tops/peplum_tops/43.jpg",
+      "description": "A Designed Peplum Top with a flared hem",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "tops/peplum_tops/44.jpg",
+      "description": "A Designed Peplum Top with a flared hem",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "tops/peplum_tops/45.jpg",
+      "description": "A Designed Peplum Top with a flared hem",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "tops/peplum_tops/46.jpg",
+      "description": "A Designed Peplum Top with a flared hem",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "tops/peplum_tops/47.jpg",
+      "description": "A multicolored Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "tops/peplum_tops/48.jpg",
+      "description": "A multicolored Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "tops/peplum_tops/49.jpg",
+      "description": "A multicolored Ankara peplum top",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "tops/peplum_tops/50.jpg",
+      "description": "A Blue Ankara peplum top with  sleeves and white dots",
+      "colors": ["Blue"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "tops/peplum_tops/51.jpg",
+      "description": "A Yellow  peplum top with  sleeves and black designs",
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "tops/peplum_tops/52.jpg",
+      "description": "A  Multicolored  peplum top made with Ankara fabric",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "tops/peplum_tops/53.jpg",
+      "description": "A  White  peplum top made with Ankara fabric with red designs",
+      "colors": ["White"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "tops/peplum_tops/54.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "tops/peplum_tops/55.jpg",
+      "description": "A Yellow  peplum Top with Black designs",
+      "colors": ["Yellow"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "tops/peplum_tops/56.jpg",
+      "description": "A Green  peplum Top with White designs",
+      "colors": ["Green"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "tops/peplum_tops/57.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "tops/peplum_tops/58.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "tops/peplum_tops/59.jpg",
+      "description": "A Multicolored  peplum Blouse ",
+      "colors": ["Multicolored"],
+      "fabric": ["Ankara"],
+      "gender": ["Female"]
+    }
+  ]
+}
