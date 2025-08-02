@@ -21,11 +21,11 @@
   ],
   "style": ["Chic", "Modern", "Elegant", "Casual", "Afrocentric"],
   "gender": ["Female", "Unisex"],
-  "total_images": 50,
+  "total_images": 32,
   "images": [
     {
       "filename": "1.jpg",
-      "path": "jumpsuit/1.jpg",
+      "path": "one_piece_outfits/jumpsuit/1.jpg",
       "description": "Jumpsuit, plus size jumpsuit, African fashion, elegant jumpsuit",
       "gender": ["Female"],
       "colors": ["Pink"],
@@ -33,7 +33,7 @@
     },
     {
       "filename": "2.jpg",
-      "path": "jumpsuit/2.jpg",
+      "path": "one_piece_outfits/jumpsuit/2.jpg",
       "description": "Jumpsuit, plus size jumpsuit, African fashion, elegant jumpsuit",
       "gender": ["Female"],
       "colors": ["Red"],
@@ -41,7 +41,7 @@
     },
     {
       "filename": "3.jpg",
-      "path": "jumpsuit/3.jpg",
+      "path": "one_piece_outfits/jumpsuit/3.jpg",
       "description": "Jumpsuit, plus size jumpsuit, African fashion, elegant jumpsuit",
       "gender": ["Female"],
       "colors": ["Pink"],
@@ -49,7 +49,7 @@
     },
     {
       "filename": "4.jpg",
-      "path": "jumpsuit/4.jpg",
+      "path": "one_piece_outfits/jumpsuit/4.jpg",
       "description": "Jumpsuit, plus size jumpsuit, African fashion, elegant jumpsuit",
       "gender": ["Female"],
       "colors": ["red"],
@@ -57,7 +57,7 @@
     },
     {
       "filename": "5.jpg",
-      "path": "jumpsuit/5.jpg",
+      "path": "one_piece_outfits/jumpsuit/5.jpg",
       "description": "Jumpsuit, plus size jumpsuit, African fashion, elegant jumpsuit",
       "gender": ["Female"],
       "colors": ["red"],
@@ -65,7 +65,7 @@
     },
     {
       "filename": "6.jpg",
-      "path": "jumpsuit/6.jpg",
+      "path": "one_piece_outfits/jumpsuit/6.jpg",
       "description": "Polka dot themed jump suit ,made with the finest material order today.quality cotton fabric.",
       "gender": ["Female"],
       "colors": ["Beige"],
@@ -73,7 +73,7 @@
     },
     {
       "filename": "7.jpg",
-      "path": "jumpsuit/7.jpg",
+      "path": "one_piece_outfits/jumpsuit/7.jpg",
       "description": "Jump Suit ",
       "gender": ["Female"],
       "colors": ["White"],
@@ -81,7 +81,7 @@
     },
     {
       "filename": "8.jpg",
-      "path": "jumpsuit/8.jpg",
+      "path": "one_piece_outfits/jumpsuit/8.jpg",
       "description": "A White Jump Suit ",
       "gender": ["Female"],
       "colors": ["White"],
@@ -89,7 +89,7 @@
     },
     {
       "filename": "9.jpg",
-      "path": "jumpsuit/9.jpg",
+      "path": "one_piece_outfits/jumpsuit/9.jpg",
       "description": "An Orange Jump Suit ",
       "gender": ["Female"],
       "colors": ["White"],
@@ -97,7 +97,7 @@
     },
     {
       "filename": "10.jpg",
-      "path": "jumpsuit/10.jpg",
+      "path": "one_piece_outfits/jumpsuit/10.jpg",
       "description": "A Black and white Jump Suit ",
       "gender": ["Female"],
       "colors": ["White", "Black"],
@@ -105,7 +105,7 @@
     },
     {
       "filename": "11.jpg",
-      "path": "jumpsuit/11.jpg",
+      "path": "one_piece_outfits/jumpsuit/11.jpg",
       "description": "The Yume jumpsuit is made in a light, soft cotton fabric called melhouz that's particularly comfortable to wear. ",
       "gender": ["Female"],
       "colors": ["Multicolored"],
@@ -113,7 +113,7 @@
     },
     {
       "filename": "12.jpg",
-      "path": "jumpsuit/12.jpg",
+      "path": "one_piece_outfits/jumpsuit/12.jpg",
       "description": "A Black and white Jump Suit ",
       "gender": ["Female"],
       "colors": ["White", "Black"],
@@ -121,7 +121,7 @@
     },
     {
       "filename": "13.jpg",
-      "path": "jumpsuit/13.jpg",
+      "path": "one_piece_outfits/jumpsuit/13.jpg",
       "description": "The Yume jumpsuit is made in a light, soft cotton fabric called melhouz that's particularly comfortable to wear. ",
       "gender": ["Female"],
       "colors": ["Multicolored"],
@@ -129,7 +129,7 @@
     },
     {
       "filename": "14.jpg",
-      "path": "jumpsuit/14.jpg",
+      "path": "one_piece_outfits/jumpsuit/14.jpg",
       "description": "The Yume jumpsuit is made in a light, soft cotton fabric called melhouz that's particularly comfortable to wear. ",
       "gender": ["Female"],
       "colors": ["Multicolored"],
@@ -137,7 +137,7 @@
     },
     {
       "filename": "15.jpg",
-      "path": "jumpsuit/15.jpg",
+      "path": "one_piece_outfits/jumpsuit/15.jpg",
       "description": "jumpsuit aissa orange brown ",
       "gender": ["Female"],
       "colors": ["Orange"],
@@ -145,7 +145,7 @@
     },
     {
       "filename": "16.jpg",
-      "path": "jumpsuit/16.jpg",
+      "path": "one_piece_outfits/jumpsuit/16.jpg",
       "description": "jumpsuit aissa orange brown ",
       "gender": ["Female"],
       "colors": ["Orange"],
@@ -153,7 +153,7 @@
     },
     {
       "filename": "17.jpg",
-      "path": "jumpsuit/17.jpg",
+      "path": "one_piece_outfits/jumpsuit/17.jpg",
       "description": "jumpsuit aissa orange brown ",
       "gender": ["Female"],
       "colors": ["Orange"],
@@ -161,7 +161,7 @@
     },
     {
       "filename": "18.jpg",
-      "path": "jumpsuit/18.jpg",
+      "path": "one_piece_outfits/jumpsuit/18.jpg",
       "description": "jumpsuit aissa orange brown ",
       "gender": ["Female"],
       "colors": ["Orange"],
@@ -169,7 +169,7 @@
     },
     {
       "filename": "19.jpg",
-      "path": "jumpsuit/19.jpg",
+      "path": "one_piece_outfits/jumpsuit/19.jpg",
       "description": "baggy jumpsuit",
       "gender": ["Female"],
       "colors": ["Multicolored"],
@@ -177,7 +177,7 @@
     },
     {
       "filename": "20.jpg",
-      "path": "jumpsuit/20.jpg",
+      "path": "one_piece_outfits/jumpsuit/20.jpg",
       "description": "baggy jumpsuit",
       "gender": ["Female"],
       "colors": ["Multicolored"],
@@ -185,7 +185,7 @@
     },
     {
       "filename": "21.jpg",
-      "path": "jumpsuit/21.jpg",
+      "path": "one_piece_outfits/jumpsuit/21.jpg",
       "description": "African Print Denim/Jeans Mens Jumpsuit, Mens Jean Jumpsuit, Mens Jumpsuit, Front Zip Jumpsuit,",
       "gender": ["Female"],
       "colors": ["Silver"],
@@ -193,7 +193,7 @@
     },
     {
       "filename": "22.jpg",
-      "path": "jumpsuit/22.jpg",
+      "path": "one_piece_outfits/jumpsuit/22.jpg",
       "description": "BARE-BACK JUMPSUIT MADE IN COTE D'IVOIRE",
       "gender": ["Male"],
       "colors": ["Mauve"],
@@ -201,7 +201,7 @@
     },
     {
       "filename": "23.jpg",
-      "path": "jumpsuit/23.jpg",
+      "path": "one_piece_outfits/jumpsuit/23.jpg",
       "description": "Elevate your style with this sleek black men's jumpsuit, designed specifically for the modern African man",
       "gender": ["Male"],
       "colors": ["Black"],
@@ -209,7 +209,7 @@
     },
     {
       "filename": "24.jpg",
-      "path": "jumpsuit/24.jpg",
+      "path": "one_piece_outfits/jumpsuit/24.jpg",
       "description": "Black Jumpsuit Jumpsuit, Jeans Mens Overall, Trendy Mens Jumpsuit",
       "gender": ["Male"],
       "colors": ["Black"],
@@ -217,7 +217,7 @@
     },
     {
       "filename": "25.jpg",
-      "path": "jumpsuit/25.jpg",
+      "path": "one_piece_outfits/jumpsuit/25.jpg",
       "description": "Black Jumpsuit Jumpsuit, Jeans Mens Overall, Trendy Mens Jumpsuit",
       "gender": ["Male"],
       "colors": ["Black"],
@@ -225,7 +225,7 @@
     },
     {
       "filename": "26.jpg",
-      "path": "jumpsuit/26.jpg",
+      "path": "one_piece_outfits/jumpsuit/26.jpg",
       "description": "Black Jumpsuit Jumpsuit, Jeans Mens Overall, Trendy Mens Jumpsuit",
       "gender": ["Male"],
       "colors": ["Black"],
@@ -233,7 +233,7 @@
     },
     {
       "filename": "27.jpg",
-      "path": "jumpsuit/27.jpg",
+      "path": "one_piece_outfits/jumpsuit/27.jpg",
       "description": "Men Jump SUit",
       "gender": ["Male"],
       "colors": ["Multicolored"],
@@ -241,7 +241,7 @@
     },
     {
       "filename": "28.jpg",
-      "path": "jumpsuit/28.jpg",
+      "path": "one_piece_outfits/jumpsuit/28.jpg",
       "description": "Men Jump SUit",
       "gender": ["Male"],
       "colors": ["Multicolored"],
@@ -249,7 +249,7 @@
     },
     {
       "filename": "29.jpg",
-      "path": "jumpsuit/29.jpg",
+      "path": "one_piece_outfits/jumpsuit/29.jpg",
       "description": "Men Jump SUit",
       "gender": ["Male"],
       "colors": ["Multicolored"],
@@ -257,7 +257,7 @@
     },
     {
       "filename": "30.jpg",
-      "path": "jumpsuit/30.jpg",
+      "path": "one_piece_outfits/jumpsuit/30.jpg",
       "description": "Lace Jumpsuit, Jumpsuit Women, Jumpsuit with Sleeves, Black Jumpsuit, Jumpsuit For Women",
       "gender": ["Female"],
       "colors": ["Black"],
@@ -265,7 +265,7 @@
     },
     {
       "filename": "31.jpg",
-      "path": "jumpsuit/31.jpg",
+      "path": "one_piece_outfits/jumpsuit/31.jpg",
       "description": "Lace Jumpsuit, Jumpsuit Women, Jumpsuit with Sleeves, Black Jumpsuit, Jumpsuit For Women",
       "gender": ["Female"],
       "colors": ["Black"],
@@ -273,7 +273,7 @@
     },
     {
       "filename": "32.jpg",
-      "path": "jumpsuit/32.jpg",
+      "path": "one_piece_outfits/jumpsuit/32.jpg",
       "description": "Lace Jumpsuit, Jumpsuit Women, Jumpsuit with Sleeves, Black Jumpsuit, Jumpsuit For Women",
       "gender": ["Female"],
       "colors": ["Black"],

@@ -13,7 +13,7 @@
   "event": ["Wedding", "Gala", "Pageant", "Cultural Ceremony"],
   "style": ["Formal", "Couture", "Celebratory"],
   "gender": ["Female"],
-  "total_images": 30,
+  "total_images": 31,
   "images": [
     {
       "filename": "1.jpg",

@@ -5,7 +5,7 @@
   "event": ["Casual Outing", "Beach Day", "Festival", "Home Wear"],
   "style": ["Casual", "Trendy", "Urban", "Relaxed"],
   "gender": ["Male", "Female"],
-  "total_images": 35,
+  "total_images": 31,
   "images": [
     {
       "filename": "1.jpg",

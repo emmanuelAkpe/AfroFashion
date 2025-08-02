@@ -5,7 +5,7 @@
   "event": ["Office Wear", "Casual Outing", "Brunch", "Cultural Festival"],
   "style": ["Chic", "Contemporary", "Casual", "Elegant"],
   "gender": ["Female"],
-  "total_images": 35,
+  "total_images": 30,
   "images": [
     {
       "filename": "1.jpg",

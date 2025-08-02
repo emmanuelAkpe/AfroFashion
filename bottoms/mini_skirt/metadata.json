@@ -5,7 +5,7 @@
   "event": ["Casual Outing", "Party", "Festival", "Fashion Show"],
   "style": ["Urban", "Contemporary", "Trendy", "Bold"],
   "gender": ["Female"],
-  "total_images": 35,
+  "total_images": 30,
   "images": [
     {
       "filename": "1.jpg",

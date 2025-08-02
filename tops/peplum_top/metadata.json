@@ -5,7 +5,7 @@
   "event": ["Wedding", "Traditional Ceremony", "Office Wear", "Casual Outing"],
   "style": ["Elegant", "Traditional", "Contemporary", "Chic"],
   "gender": ["Female"],
-  "total_images": 35,
+  "total_images": 59,
   "images": [
     {
       "filename": "1.jpg",

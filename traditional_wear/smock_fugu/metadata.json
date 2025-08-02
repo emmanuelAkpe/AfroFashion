@@ -5,7 +5,7 @@
   "event": ["Traditional Ceremony", "Festival", "Wedding", "Cultural Day"],
   "style": ["Traditional", "Regal", "Cultural", "Ethnic"],
   "gender": ["Male", "Female"],
-  "total_images": 35,
+  "total_images": 49,
   "images": [
     {
       "filename": "1.jpg",
