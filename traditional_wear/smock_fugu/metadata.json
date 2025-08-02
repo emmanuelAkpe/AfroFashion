@@ -1,0 +1,403 @@
+{
+  "category": "fugu",
+  "description": "Traditional hand-woven attire originating from Northern Ghana, often worn during cultural ceremonies and by chiefs. Known for its thick, durable fabric and bold striped patterns.",
+  "regions": ["Ghana (Northern Region)", "Burkina Faso", "Togo", "Benin"],
+  "event": ["Traditional Ceremony", "Festival", "Wedding", "Cultural Day"],
+  "style": ["Traditional", "Regal", "Cultural", "Ethnic"],
+  "gender": ["Male", "Female"],
+  "total_images": 35,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "traditional_wear/fugu/1.jpg",
+      "description": "Classic men's fugu with black and white striping and wide sleeves",
+      "colors": ["black", "white"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "traditional_wear/fugu/2.jpg",
+      "description": " men's fugu with dorminant  Yellow striping and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "traditional_wear/fugu/3.jpg",
+      "description": " A multiclored fugu with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "traditional_wear/fugu/4.jpg",
+      "description": "Iconic Fugu BY  worn by a Lady",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "traditional_wear/fugu/5.jpg",
+      "description": "Classic fugu worn by a child with dorminant wine striping",
+      "colors": ["Wine"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "traditional_wear/fugu/6.jpg",
+      "description": "Fugu with dorminant blue stripes and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "traditional_wear/fugu/7.jpg",
+      "description": "A blue Fugu with intricate patterns and wide sleeves",
+      "colors": ["Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "traditional_wear/fugu/8.jpg",
+      "description": "A multicolored Fugu with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "traditional_wear/fugu/9.jpg",
+      "description": "A multicolored Fugu dorminant blue with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "traditional_wear/fugu/10.jpg",
+      "description": "A multicolored Fugu with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "traditional_wear/fugu/11.jpg",
+      "description": "A multicolored Fugu dorminant blue and gray with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "traditional_wear/fugu/12.jpg",
+      "description": "A multicolored Fugu worn by a man with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "traditional_wear/fugu/13.jpg",
+      "description": "A multicolored Fugu worn by a man with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "traditional_wear/fugu/14.jpg",
+      "description": "A multicolored Fugu worn by a man with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "traditional_wear/fugu/15.jpg",
+      "description": "A multicolored Fugu worn by a man with dormninant Brown stripes and wide sleeves with little yellow stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "traditional_wear/fugu/16.jpg",
+      "description": "A Blue and  white Fugu worn by a man with intricate patterns and wide sleeves",
+      "colors": ["Blue", "white"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "traditional_wear/fugu/17.jpg",
+      "description": "Fugu with dorminant blue stripes and wide sleeves with little yellow stripes",
+      "colors": ["Blue", "yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "traditional_wear/fugu/18.jpg",
+      "description": "Multicolored Fugu with dormiant Blue and yellow stripes and wide sleeves",
+      "colors": ["Blue", "yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "traditional_wear/fugu/19.jpg",
+      "description": "Dorminant Blue Fugu with little teal stripes and wide sleeves",
+      "colors": ["Blue", "teal"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "traditional_wear/fugu/20.jpg",
+      "description": "Dorminant Green Fugu with little black stripes and wide sleeves",
+      "colors": ["Green", "Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "traditional_wear/fugu/21.jpg",
+      "description": "Multicolored Fugu worn by a male",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "traditional_wear/fugu/22.jpg",
+      "description": "Multicolored Fugu worn by a male",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "traditional_wear/fugu/23.jpg",
+      "description": "Multicolored Fugu worn by a male",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "traditional_wear/fugu/24.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "traditional_wear/fugu/25.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "traditional_wear/fugu/26.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "traditional_wear/fugu/27.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin with dorminant teal stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "traditional_wear/fugu/28.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin with dorminant Red stripes with little white stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "traditional_wear/fugu/29.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin with dorminant Red stripes with little white stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "traditional_wear/fugu/30.jpg",
+      "description": "Multicolored Fugu worn by a lady Manikin with dorminant Red stripes with little white stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "traditional_wear/fugu/31.jpg",
+      "description": "Modern female fugu dress with colorful woven stripes ",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "traditional_wear/fugu/32.jpg",
+      "description": "Modern female fugu dress with white and black woven stripes and waist belt",
+      "colors": ["White", "Black"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "traditional_wear/fugu/33.jpg",
+      "description": "Multicolored Fugu worn by a lady with a belt",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "traditional_wear/fugu/34.jpg",
+      "description": "Multicolored Fugu with dorminant red, white  and black colors",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "traditional_wear/fugu/35.jpg",
+      "description": "Dorminant WHite Fugu with little black  and brown stripes and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "traditional_wear/fugu/36.jpg",
+      "description": "A multicolored fugu worn by a child with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "traditional_wear/fugu/37.jpg",
+      "description": "A multicolored fugu worn by a child with intricate patterns and wide sleeves. The child holding a stick",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "traditional_wear/fugu/38.jpg",
+      "description": "Dorminant Brown Fugu  and wide sleeves",
+      "colors": ["Brown"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "traditional_wear/fugu/39.jpg",
+      "description": "Dorminant Blue  Fugu  and wide sleeves",
+      "colors": ["Blue"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "traditional_wear/fugu/40.jpg",
+      "description": "Dorminant Blue  Fugu with little Brown stripes  and wide sleeves",
+      "colors": ["Blue", "Brown"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "traditional_wear/fugu/41.jpg",
+      "description": "Dorminant White Fugu with little Black stripes  and wide sleeves",
+      "colors": ["Blue", "Black"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "traditional_wear/fugu/42.jpg",
+      "description": "A multicolored Fugu worn by a man",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "traditional_wear/fugu/43.jpg",
+      "description": "A multicolored Fugu worn by a man",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "traditional_wear/fugu/44.jpg",
+      "description": "A Red Fugu",
+      "colors": ["Red"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "traditional_wear/fugu/45.jpg",
+      "description": "A multicolored Fugu  with intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "traditional_wear/fugu/46.jpg",
+      "description": "A multicolored Fugu  with dorminant Blue colors and  intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "traditional_wear/fugu/47.jpg",
+      "description": "A multicolored Fugu  with dorminant Gree colors and  intricate patterns and wide sleeves",
+      "colors": ["Multicolored"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "traditional_wear/fugu/48.jpg",
+      "description": "Pure White Fugu",
+      "colors": ["White"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "traditional_wear/fugu/49.jpg",
+      "description": "A Dorminant Black and Red Fugu",
+      "colors": ["Black", "Red"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    }
+  ]
+}

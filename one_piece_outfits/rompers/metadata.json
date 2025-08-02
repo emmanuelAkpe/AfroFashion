@@ -1,0 +1,275 @@
+{
+  "category": "rompers",
+  "description": "One-piece outfits that combine tops and shorts, often crafted from vibrant African prints, offering a fun and modern look ideal for warm-weather events and casual outings.",
+  "regions": ["Nigeria", "Ghana", "South Africa", "Kenya", "Rwanda"],
+  "event": ["Casual Outing", "Beach Day", "Festival", "Brunch"],
+  "style": ["Trendy", "Playful", "Urban", "Contemporary"],
+  "gender": ["Female"],
+  "total_images": 35,
+  "images": [
+    {
+      "filename": "1.jpg",
+      "path": "one_piece_outfits/rompers/1.jpg",
+      "description": "A Multicolored Romper with a Belt",
+      "colors": ["Multicolred"],
+      "fabric": ["Ankara", "Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "2.jpg",
+      "path": "one_piece_outfits/rompers/2.jpg",
+      "description": "A Multicolored Romper with dorminant Green colors and a Belt",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "3.jpg",
+      "path": "one_piece_outfits/rompers/3.jpg",
+      "description": "A Multicolored Romper with  a Belt",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "4.jpg",
+      "path": "one_piece_outfits/rompers/4.jpg",
+      "description": "A Multicolored Romper with dorminant red colors and a Belt",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "5.jpg",
+      "path": "one_piece_outfits/rompers/5.jpg",
+      "description": "A Brown Romper with intricate patterns",
+      "colors": ["Brown"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "6.jpg",
+      "path": "one_piece_outfits/rompers/6.jpg",
+      "description": "A Multicolored Romper ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "7.jpg",
+      "path": "one_piece_outfits/rompers/7.jpg",
+      "description": "A Multicolored Romper with dorminant yellow colors ",
+      "colors": ["yellow"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "8.jpg",
+      "path": "one_piece_outfits/rompers/8.jpg",
+      "description": "A Multicolored Romper with dorminant  red and green colors ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "9.jpg",
+      "path": "one_piece_outfits/rompers/9.jpg",
+      "description": "A Multicolored Romper with dorminant  red and blue colors ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "10.jpg",
+      "path": "one_piece_outfits/rompers/10.jpg",
+      "description": "A Multicolored Romper  ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "11.jpg",
+      "path": "one_piece_outfits/rompers/11.jpg",
+      "description": "A Multicolored Romper with dorminant Blue ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "12.jpg",
+      "path": "one_piece_outfits/rompers/12.jpg",
+      "description": "A flowery Multicolored Romper showing the back view ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "13.jpg",
+      "path": "one_piece_outfits/rompers/13.jpg",
+      "description": "A Multicolored Romper  ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "14.jpg",
+      "path": "one_piece_outfits/rompers/14.jpg",
+      "description": "A Multicolored Romper  with dorminant deep green colors ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "15.jpg",
+      "path": "one_piece_outfits/rompers/15.jpg",
+      "description": "A Multicolored Romper  with dorminant blue and yellow colors ",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "16.jpg",
+      "path": "one_piece_outfits/rompers/16.jpg",
+      "description": "A Multicolored Ankara made  Romper  with dorminant blue and yellow and Red colors -Front View ",
+      "colors": ["Red", "Blue", "Yellow"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "17.jpg",
+      "path": "one_piece_outfits/rompers/17.jpg",
+      "description": "A Multicolored Ankara made  Romper  with dorminant blue and yellow and Red colors - Back View",
+      "colors": ["Red", "Blue", "Yellow"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "18.jpg",
+      "path": "one_piece_outfits/rompers/18.jpg",
+      "description": "A Multicolored  Romper",
+      "colors": ["Multicolred"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "19.jpg",
+      "path": "one_piece_outfits/rompers/19.jpg",
+      "description": "A Multicolored  Romper with dorminant gray and green colors - Front View",
+      "colors": ["Green", "Gray"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "20.jpg",
+      "path": "one_piece_outfits/rompers/20.jpg",
+      "description": "A Multicolored  Romper with dorminant gray and green colors -Back view",
+      "colors": ["Green", "Gray"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "21.jpg",
+      "path": "one_piece_outfits/rompers/21.jpg",
+      "description": "A Multicolored rompers - Front View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "22.jpg",
+      "path": "one_piece_outfits/rompers/22.jpg",
+      "description": "A Multicolored rompers - Side View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "23.jpg",
+      "path": "one_piece_outfits/rompers/23.jpg",
+      "description": "A Multicolored rompers - Back View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "24.jpg",
+      "path": "one_piece_outfits/rompers/24.jpg",
+      "description": "A Blue Romper",
+      "colors": ["Blue"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "25.jpg",
+      "path": "one_piece_outfits/rompers/25.jpg",
+      "description": "A Multicolored Romper with Dorminant Green Stripes - Front View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "one_piece_outfits/rompers/26.jpg",
+      "description": "A Multicolored Romper with Dorminant Green Stripes - Side View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "one_piece_outfits/rompers/27.jpg",
+      "description": "A Multicolored Romper ",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "one_piece_outfits/rompers/28.jpg",
+      "description": "A Multicolored Romper ",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "one_piece_outfits/rompers/29.jpg",
+      "description": "Black and white Romper ",
+      "colors": ["Black", "White"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "one_piece_outfits/rompers/30.jpg",
+      "description": "Black and white Romper ",
+      "colors": ["Black", "White"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "one_piece_outfits/rompers/31.jpg",
+      "description": "A multicolored Romper -  Front View",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "one_piece_outfits/rompers/32.jpg",
+      "description": "A multicolored Romper - Back View ",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "one_piece_outfits/rompers/32.jpg",
+      "description": "A multicolored Romper - Side View ",
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton", "Ankara"],
+      "gender": ["Female"]
+    }
+  ]
+}
