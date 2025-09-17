@@ -398,6 +398,439 @@
       "colors": ["Black", "Red"],
       "fabric": ["Handwoven Cotton", "Fugu Fabric"],
       "gender": ["Male"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "traditional_wear/fugu/50.jpg",
+      "description": "A Sleeveless Fugu Batakari Smock Dorminant Blue and Yellow.",
+      "colors": ["Blue", "Yellow"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "traditional_wear/fugu/52.jpg",
+      "description": "A Sleeveless Fugu Batakari Smock with  Dorminant Blue and Yellow.",
+      "colors": ["Blue", "Yellow"],
+      "fabric": ["Handwoven Cotton", "Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "traditional_wear/fugu/53.jpg",
+      "description": "African Men’s Smock Batakari with Dorminant Black and white stripes",
+      "colors": ["Black", "white"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "traditional_wear/fugu/54.jpg",
+      "description": "Northern Kente Men’s Batakari Smock with Dorminant Black and yellow stripes",
+      "colors": ["Black", "Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "traditional_wear/fugu/55.jpg",
+      "description": "Northern Kente Men’s Batakari Smock with Dorminant Black and yellow stripes",
+      "colors": ["Black", "Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "traditional_wear/fugu/56.jpg",
+      "description": "Northern Kente Men’s Batakari Smock with Dorminant Black and yellow stripes",
+      "colors": ["Black", "Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "traditional_wear/fugu/57.jpg",
+      "description": "African Batakari Smock Shirt with Dorminant yellow stripes",
+      "colors": ["Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "traditional_wear/fugu/58.jpg",
+      "description": "African Batakari Smock Shirt with Dorminant yellow stripes",
+      "colors": ["Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "traditional_wear/fugu/59.jpg",
+      "description": "African Smock Fugu| Coffee Brown",
+      "colors": ["Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "60.jpg",
+      "path": "traditional_wear/fugu/60.jpg",
+      "description": "Batakari Fugu Smock Shirt with Dorminant Blue stripes",
+      "colors": ["Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+
+    {
+      "filename": "61.jpg",
+      "path": "traditional_wear/fugu/61.jpg",
+      "description": "Sleeveless Fugu Batakari Smock with Dorminant Blue and silver  stripes",
+      "colors": ["Blue", "Silver"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "62.jpg",
+      "path": "traditional_wear/fugu/62.jpg",
+      "description": "Sleeveless Fugu Batakari Smock with Dorminant Blue and silver  stripes",
+      "colors": ["Blue", "Silver"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "63.jpg",
+      "path": "traditional_wear/fugu/63.jpg",
+      "description": "Sleeveless Fugu Batakari Smock with Dorminant Blue and silver  stripes",
+      "colors": ["Blue", "Silver"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "64.jpg",
+      "path": "traditional_wear/fugu/64.jpg",
+      "description": "African Smock Fugu| Coffee Brown",
+      "colors": ["Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "65.jpg",
+      "path": "traditional_wear/fugu/65.jpg",
+      "description": "African Smock Fugu| Coffee Brown",
+      "colors": ["Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "66.jpg",
+      "path": "traditional_wear/fugu/66.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) with dorminant blue and black stripes",
+      "colors": ["Blue", "Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "67.jpg",
+      "path": "traditional_wear/fugu/67.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) with dorminant Red and black stripes",
+      "colors": ["Red", "Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "68.jpg",
+      "path": "traditional_wear/fugu/68.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) with dorminant silver and blue stripes",
+      "colors": ["Silver", "Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "69.jpg",
+      "path": "traditional_wear/fugu/69.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) with dorminant silver and blue stripes",
+      "colors": ["Silver", "Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "70.jpg",
+      "path": "traditional_wear/fugu/70.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) Black, Large",
+      "colors": ["Beige", "Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "71.jpg",
+      "path": "traditional_wear/fugu/71.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) with dorminant Green and little yellow stripes",
+      "colors": ["Green", "Yellow"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "72.jpg",
+      "path": "traditional_wear/fugu/72.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) - Deep Navy blue/Beige-Multicolor",
+      "colors": ["Blue", "Beige"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "73.jpg",
+      "path": "traditional_wear/fugu/73.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) - dorminant Black and little red stripes",
+      "colors": ["Black", "Red"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "74.jpg",
+      "path": "traditional_wear/fugu/74.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari)- multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "75.jpg",
+      "path": "traditional_wear/fugu/75.jpg",
+      "description": "Authentic Northen Hand Woven Fugu- Smock with Cap - Brown/Grey",
+      "colors": ["Brown", "Grey"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "76.jpg",
+      "path": "traditional_wear/fugu/76.jpg",
+      "description": "Genetic Denim Authentic northern smock with cup(Batakari)- Dorminant Green ",
+      "colors": ["Green"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "77.jpg",
+      "path": "traditional_wear/fugu/77.jpg",
+      "description": "Genetic Denim Authentic northern smock with cup(Batakari)- Dorminant Blue ",
+      "colors": ["Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "78.jpg",
+      "path": "traditional_wear/fugu/78.jpg",
+      "description": "Genetic Denim Authentic northern smock with cup(Batakari)- Dorminant Yellow and little blue stripes ",
+      "colors": ["Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "79.jpg",
+      "path": "traditional_wear/fugu/79.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) - Navy blue/Black-Multicolor ",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "80.jpg",
+      "path": "traditional_wear/fugu/80.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) -Blue",
+      "colors": ["Blue"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "81.jpg",
+      "path": "traditional_wear/fugu/81.jpg",
+      "description": "Authentic Northern Smock with cap(Batakari) -Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "82.jpg",
+      "path": "traditional_wear/fugu/82.jpg",
+      "description": "Authentic Northern Smock  - Brown",
+      "colors": ["Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "83.jpg",
+      "path": "traditional_wear/fugu/83.jpg",
+      "description": "Authentic Northern Smock  - Brown",
+      "colors": ["Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "84.jpg",
+      "path": "traditional_wear/fugu/84.jpg",
+      "description": "Authentic Northern Smock  - Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "85.jpg",
+      "path": "traditional_wear/fugu/85.jpg",
+      "description": " Northern Smock  - with dorminant Grey and Beige stripes",
+      "colors": ["Grey", "Beige"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "86.jpg",
+      "path": "traditional_wear/fugu/86.jpg",
+      "description": " Northern Smock  - with dorminant Blue and Beige stripes",
+      "colors": ["Blue", "Beige"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "87.jpg",
+      "path": "traditional_wear/fugu/87.jpg",
+      "description": " Northern Smock  -  Multicolored stripes",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "88.jpg",
+      "path": "traditional_wear/fugu/88.jpg",
+      "description": " Northern Smock  -  with dorminant Pink and Brown stripes",
+      "colors": ["Pink", "Brown"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "89.jpg",
+      "path": "traditional_wear/fugu/89.jpg",
+      "description": " Northern Smock  -  with dorminant Green and Beige stripes",
+      "colors": ["Green", "Beige"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "90.jpg",
+      "path": "traditional_wear/fugu/90.jpg",
+      "description": " Northern Smock  -  with dorminant Blue and little Teal stripes",
+      "colors": ["Blue", "Teal"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "91.jpg",
+      "path": "traditional_wear/fugu/91.jpg",
+      "description": " Northern Smock  -  with dorminant Blue and little white stripes",
+      "colors": ["Blue", "White"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "92.jpg",
+      "path": "traditional_wear/fugu/92.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "93.jpg",
+      "path": "traditional_wear/fugu/93.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "94.jpg",
+      "path": "traditional_wear/fugu/94.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "95.jpg",
+      "path": "traditional_wear/fugu/95.jpg",
+      "description": " Northern Smock  -  Black",
+      "colors": ["Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "96.jpg",
+      "path": "traditional_wear/fugu/96.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "97.jpg",
+      "path": "traditional_wear/fugu/97.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "98.jpg",
+      "path": "traditional_wear/fugu/98.jpg",
+      "description": " Northern Smock  -  Dorminant Green and little WHite stripes",
+      "colors": ["Green", "White"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "99.jpg",
+      "path": "traditional_wear/fugu/99.jpg",
+      "description": " Northern Smock  -  Dorminant Green and little WHite stripes",
+      "colors": ["Green", "White"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "100.jpg",
+      "path": "traditional_wear/fugu/100.jpg",
+      "description": " Northern Smock  -  Dorminant Beige and Black stripes",
+      "colors": ["Beige", "Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "101.jpg",
+      "path": "traditional_wear/fugu/101.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "102.jpg",
+      "path": "traditional_wear/fugu/102.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "103.jpg",
+      "path": "traditional_wear/fugu/103.jpg",
+      "description": " Northern Smock  -  Multicolored",
+      "colors": ["Multicolored"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
+    },
+    {
+      "filename": "104.jpg",
+      "path": "traditional_wear/fugu/104.jpg",
+      "description": " Northern Smock  -  Black",
+      "colors": ["Black"],
+      "fabric": ["Fugu Fabric"],
+      "gender": ["Male"]
     }
   ]
 }

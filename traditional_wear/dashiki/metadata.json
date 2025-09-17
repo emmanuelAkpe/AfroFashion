@@ -221,6 +221,814 @@
       "gender": ["Female", "Male"],
       "colors": ["Purple"],
       "fabric": ["Tie Dye"]
+    },
+    {
+      "filename": "26.jpg",
+      "path": "traditional_wear/dashiki/26.jpg",
+      "description": "Dashiki with Yellow Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "27.jpg",
+      "path": "traditional_wear/dashiki/27.jpg",
+      "description": "Dashiki with Blue and Green  Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue", "Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "28.jpg",
+      "path": "traditional_wear/dashiki/28.jpg",
+      "description": "A Multicolored Unisex Dashiki with Blue   Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "29.jpg",
+      "path": "traditional_wear/dashiki/29.jpg",
+      "description": "A Multicolored Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "30.jpg",
+      "path": "traditional_wear/dashiki/30.jpg",
+      "description": "A Multicolored Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "31.jpg",
+      "path": "traditional_wear/dashiki/31.jpg",
+      "description": "A Multicolored Unisex Dashiki with yellow Dominating and little of Blue and white",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "32.jpg",
+      "path": "traditional_wear/dashiki/32.jpg",
+      "description": "A Multicolored Unisex Dashiki with White Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "33.jpg",
+      "path": "traditional_wear/dashiki/33.jpg",
+      "description": "A Multicolored Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "34.jpg",
+      "path": "traditional_wear/dashiki/34.jpg",
+      "description": "A Multicolored Unisex Dashiki  with Blue Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "35.jpg",
+      "path": "traditional_wear/dashiki/35.jpg",
+      "description": "A Multicolored Unisex Dashiki  with Blue Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "36.jpg",
+      "path": "traditional_wear/dashiki/36.jpg",
+      "description": "A Multicolored Unisex Dashiki  with White Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "37.jpg",
+      "path": "traditional_wear/dashiki/37.jpg",
+      "description": "A Multicolored Unisex Dashiki  with White Dominating and little Orange",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "38.jpg",
+      "path": "traditional_wear/dashiki/38.jpg",
+      "description": "A Multicolored Unisex Dashiki  with Green  Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "39.jpg",
+      "path": "traditional_wear/dashiki/39.jpg",
+      "description": "A Multicolored Unisex Dashiki  with Orange  Dominating",
+      "gender": ["Female", "Male"],
+      "colors": ["Orange"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "40.jpg",
+      "path": "traditional_wear/dashiki/40.jpg",
+      "description": "A Multicolored Unisex Dashiki  with Black  Dominating and little Pink stripes",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Pink"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "41.jpg",
+      "path": "traditional_wear/dashiki/41.jpg",
+      "description": "A Multicolored Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "42.jpg",
+      "path": "traditional_wear/dashiki/42.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH Red Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "43.jpg",
+      "path": "traditional_wear/dashiki/43.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH Purple Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Purple"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "44.jpg",
+      "path": "traditional_wear/dashiki/44.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH Black and Orange Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Orange"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "45.jpg",
+      "path": "traditional_wear/dashiki/45.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH Black and Red Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "46.jpg",
+      "path": "traditional_wear/dashiki/46.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH  Red Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "47.jpg",
+      "path": "traditional_wear/dashiki/47.jpg",
+      "description": "A Multicolored Unisex Dashiki WITH White and Green Dominating ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "48.jpg",
+      "path": "traditional_wear/dashiki/48.jpg",
+      "description": "A Black and White Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "49.jpg",
+      "path": "traditional_wear/dashiki/49.jpg",
+      "description": "A Black and White Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "50.jpg",
+      "path": "traditional_wear/dashiki/50.jpg",
+      "description": "A Black and White Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "traditional_wear/dashiki/51.jpg",
+      "description": "A Black and White Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "traditional_wear/dashiki/52.jpg",
+      "description": "A Black and Silver Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Silver", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "traditional_wear/dashiki/53.jpg",
+      "description": "A Black and Silver Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Silver", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "traditional_wear/dashiki/54.jpg",
+      "description": "A Black and Silver Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Silver", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "traditional_wear/dashiki/55.jpg",
+      "description": "A Black and Silver Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Silver", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "traditional_wear/dashiki/56.jpg",
+      "description": " Unisex Dashiki with White Dominating and touches of Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "traditional_wear/dashiki/57.jpg",
+      "description": " Unisex Dashiki with White Dominating and touches of Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "traditional_wear/dashiki/58.jpg",
+      "description": " Unisex Dashiki with White Dominating and touches of Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "traditional_wear/dashiki/59.jpg",
+      "description": " Unisex Dashiki with White Dominating and touches of Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "60.jpg",
+      "path": "traditional_wear/dashiki/60.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "61.jpg",
+      "path": "traditional_wear/dashiki/61.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "62.jpg",
+      "path": "traditional_wear/dashiki/62.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "63.jpg",
+      "path": "traditional_wear/dashiki/63.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "64.jpg",
+      "path": "traditional_wear/dashiki/64.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "65.jpg",
+      "path": "traditional_wear/dashiki/65.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of Green ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "66.jpg",
+      "path": "traditional_wear/dashiki/66.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of Green ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "Black"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "67.jpg",
+      "path": "traditional_wear/dashiki/67.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "68.jpg",
+      "path": "traditional_wear/dashiki/68.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "69.jpg",
+      "path": "traditional_wear/dashiki/69.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "70.jpg",
+      "path": "traditional_wear/dashiki/70.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "71.jpg",
+      "path": "traditional_wear/dashiki/71.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "72.jpg",
+      "path": "traditional_wear/dashiki/72.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and toches of WHite and Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "73.jpg",
+      "path": "traditional_wear/dashiki/73.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange, Black and toches of WHite  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "74.jpg",
+      "path": "traditional_wear/dashiki/74.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange, Black and toches of WHite  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "75.jpg",
+      "path": "traditional_wear/dashiki/75.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange, Black and toches of WHite  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "76.jpg",
+      "path": "traditional_wear/dashiki/76.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "77.jpg",
+      "path": "traditional_wear/dashiki/77.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "78.jpg",
+      "path": "traditional_wear/dashiki/78.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "79.jpg",
+      "path": "traditional_wear/dashiki/79.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "80.jpg",
+      "path": "traditional_wear/dashiki/80.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "81.jpg",
+      "path": "traditional_wear/dashiki/81.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "82.jpg",
+      "path": "traditional_wear/dashiki/82.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating WHite and Red ",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "83.jpg",
+      "path": "traditional_wear/dashiki/83.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and Green ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "84.jpg",
+      "path": "traditional_wear/dashiki/84.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Black and Green ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black", "Green"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "85.jpg",
+      "path": "traditional_wear/dashiki/85.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "86.jpg",
+      "path": "traditional_wear/dashiki/86.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "87.jpg",
+      "path": "traditional_wear/dashiki/87.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "88.jpg",
+      "path": "traditional_wear/dashiki/88.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "89.jpg",
+      "path": "traditional_wear/dashiki/89.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "90.jpg",
+      "path": "traditional_wear/dashiki/90.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "91.jpg",
+      "path": "traditional_wear/dashiki/91.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Green and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "92.jpg",
+      "path": "traditional_wear/dashiki/92.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Green and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "93.jpg",
+      "path": "traditional_wear/dashiki/93.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Green and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "94.jpg",
+      "path": "traditional_wear/dashiki/94.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Green and White ",
+      "gender": ["Female", "Male"],
+      "colors": ["Green", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "95.jpg",
+      "path": "traditional_wear/dashiki/95.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "96.jpg",
+      "path": "traditional_wear/dashiki/96.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "97.jpg",
+      "path": "traditional_wear/dashiki/97.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "98.jpg",
+      "path": "traditional_wear/dashiki/98.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange and WHite ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "99.jpg",
+      "path": "traditional_wear/dashiki/99.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange and WHite ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "100.jpg",
+      "path": "traditional_wear/dashiki/100.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange and WHite ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "101.jpg",
+      "path": "traditional_wear/dashiki/101.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Orange and WHite ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "102.jpg",
+      "path": "traditional_wear/dashiki/102.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "103.jpg",
+      "path": "traditional_wear/dashiki/103.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "104.jpg",
+      "path": "traditional_wear/dashiki/104.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "105.jpg",
+      "path": "traditional_wear/dashiki/105.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "106.jpg",
+      "path": "traditional_wear/dashiki/106.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue and Black ",
+      "gender": ["Female", "Male"],
+      "colors": ["Black, White, Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "107.jpg",
+      "path": "traditional_wear/dashiki/107.jpg",
+      "description": "Multiclored  Unisex Dashiki  ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "108.jpg",
+      "path": "traditional_wear/dashiki/108.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "109.jpg",
+      "path": "traditional_wear/dashiki/109.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "110.jpg",
+      "path": "traditional_wear/dashiki/110.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "111.jpg",
+      "path": "traditional_wear/dashiki/111.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Blue ",
+      "gender": ["Female", "Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "112.jpg",
+      "path": "traditional_wear/dashiki/112.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating White and Red",
+      "gender": ["Female", "Male"],
+      "colors": ["White", "Red"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "113.jpg",
+      "path": "traditional_wear/dashiki/113.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "114.jpg",
+      "path": "traditional_wear/dashiki/114.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "115.jpg",
+      "path": "traditional_wear/dashiki/115.jpg",
+      "description": "Multiclored  Unisex Dashiki ",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "116.jpg",
+      "path": "traditional_wear/dashiki/116.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red and WHite",
+      "gender": ["Female", "Male"],
+      "colors": ["Red", "White"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "117.jpg",
+      "path": "traditional_wear/dashiki/117.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "118.jpg",
+      "path": "traditional_wear/dashiki/118.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "119.jpg",
+      "path": "traditional_wear/dashiki/119.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "120.jpg",
+      "path": "traditional_wear/dashiki/120.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red",
+      "gender": ["Female", "Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "121.jpg",
+      "path": "traditional_wear/dashiki/121.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Yellow and Blue",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "122.jpg",
+      "path": "traditional_wear/dashiki/122.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Yellow and Blue",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "123.jpg",
+      "path": "traditional_wear/dashiki/123.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Yellow and Blue",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "124.jpg",
+      "path": "traditional_wear/dashiki/124.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Yellow and Blue",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "125.jpg",
+      "path": "traditional_wear/dashiki/125.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Yellow and Blue",
+      "gender": ["Female", "Male"],
+      "colors": ["Yellow", "Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "126.jpg",
+      "path": "traditional_wear/dashiki/126.jpg",
+      "description": "Multiclored  Unisex Dashiki with Dominating Red and White",
+      "gender": ["Female", "Male"],
+      "colors": ["Red", "White"],
+      "fabric": ["Cotton"]
     }
   ]
 }

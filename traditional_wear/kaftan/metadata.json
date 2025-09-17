@@ -511,6 +511,166 @@
       "gender": ["Male"],
       "colors": ["Black", "Blue"],
       "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "61.jpg",
+      "path": "traditional_wear/kaftan/61.jpg",
+      "description": "Majesty Navy  kaftan – carefully sewn African apparel made from quality  italian suiting  fabric ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "62.jpg",
+      "path": "traditional_wear/kaftan/62.jpg",
+      "description": "Majesty Navy  kaftan – carefully sewn African apparel made from quality  italian suiting  fabric ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "63.jpg",
+      "path": "traditional_wear/kaftan/63.jpg",
+      "description": "Majesty Navy  kaftan – carefully sewn African apparel made from quality  italian suiting  fabric ",
+      "gender": ["Male"],
+      "colors": ["Blue"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "64.jpg",
+      "path": "traditional_wear/kaftan/64.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric - Peach ",
+      "gender": ["Male"],
+      "colors": ["Peach"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "65.jpg",
+      "path": "traditional_wear/kaftan/65.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric - Peach ",
+      "gender": ["Male"],
+      "colors": ["Peach"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "66.jpg",
+      "path": "traditional_wear/kaftan/66.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric - Peach ",
+      "gender": ["Male"],
+      "colors": ["Peach"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "67.jpg",
+      "path": "traditional_wear/kaftan/67.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "68.jpg",
+      "path": "traditional_wear/kaftan/68.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "69.jpg",
+      "path": "traditional_wear/kaftan/69.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "70.jpg",
+      "path": "traditional_wear/kaftan/70.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "71.jpg",
+      "path": "traditional_wear/kaftan/71.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "72.jpg",
+      "path": "traditional_wear/kaftan/72.jpg",
+      "description": "carefully sewn African apparel made from quality italian suiting  fabric  ",
+      "gender": ["Male"],
+      "colors": ["Multicolored"],
+      "fabric": ["Cotton"]
+    },
+    {
+      "filename": "73.jpg",
+      "path": "traditional_wear/kaftan/73.jpg",
+      "description": "carefully sewn African apparel made from quality  Khaki Linen Kaftan   ",
+      "gender": ["Male"],
+      "colors": ["Beige"],
+      "fabric": ["Khaki"]
+    },
+    {
+      "filename": "74.jpg",
+      "path": "traditional_wear/kaftan/74.jpg",
+      "description": "blue Stripes is a contemporary mens wear  made from original Italian suit fabric nicely piece together to make kaftan apparel . It is most worn by people who want to look unique. ",
+      "gender": ["Male"],
+      "colors": ["Navy-Blue"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "75.jpg",
+      "path": "traditional_wear/kaftan/75.jpg",
+      "description": "blue Stripes is a contemporary mens wear  made from original Italian suit fabric nicely piece together to make kaftan apparel . It is most worn by people who want to look unique. ",
+      "gender": ["Male"],
+      "colors": ["Navy-Blue"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "76.jpg",
+      "path": "traditional_wear/kaftan/76.jpg",
+      "description": "Burgundy Kaftan is a contemporary outfit that exudes confidence. For the classic man ",
+      "gender": ["Male"],
+      "colors": ["Burgundy"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "77.jpg",
+      "path": "traditional_wear/kaftan/77.jpg",
+      "description": "Burgundy Kaftan is a contemporary outfit that exudes confidence. For the classic man ",
+      "gender": ["Male"],
+      "colors": ["Burgundy"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "78.jpg",
+      "path": "traditional_wear/kaftan/78.jpg",
+      "description": "Burgundy Kaftan is a contemporary outfit that exudes confidence. For the classic man ",
+      "gender": ["Male"],
+      "colors": ["Burgundy"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "79.jpg",
+      "path": "traditional_wear/kaftan/79.jpg",
+      "description": "Army-Green Kaftan ",
+      "gender": ["Male"],
+      "colors": ["Army-Green"],
+      "fabric": ["Cotton", "Ankara"]
+    },
+    {
+      "filename": "80.jpg",
+      "path": "traditional_wear/kaftan/80.jpg",
+      "description": "Army-Green Kaftan ",
+      "gender": ["Male"],
+      "colors": ["Army-Green"],
+      "fabric": ["Cotton", "Ankara"]
     }
   ]
 }

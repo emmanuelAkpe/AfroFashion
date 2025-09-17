@@ -406,6 +406,270 @@
       "colors": ["Orange"],
       "gender": ["Female"],
       "fabric": ["Silk"]
+    },
+    {
+      "filename": "51.jpg",
+      "path": "traditional_wear/bubu_boubou/51.jpg",
+      "description": "African Print Boubou Dress for Woman",
+      "colors": ["Orange", "Black", "Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "52.jpg",
+      "path": "traditional_wear/bubu_boubou/52.jpg",
+      "description": "African Print Boubou Dress for Woman",
+      "colors": ["Orange", "Black", "Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "53.jpg",
+      "path": "traditional_wear/bubu_boubou/53.jpg",
+      "description": "African Print Boubou Dress for Woman",
+      "colors": ["Orange", "Black", "Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "54.jpg",
+      "path": "traditional_wear/bubu_boubou/54.jpg",
+      "description": "African Print Boubou Dress for Woman",
+      "colors": ["Orange", "Black", "Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "55.jpg",
+      "path": "traditional_wear/bubu_boubou/55.jpg",
+      "description": "African Print Boubou Dress for Woman",
+      "colors": ["Orange", "Black", "Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "56.jpg",
+      "path": "traditional_wear/bubu_boubou/56.jpg",
+      "description": "African Print Boubou Dress for Woman - DOminating Teal, WHite and Black",
+      "colors": ["Teal", "Black", "White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "57.jpg",
+      "path": "traditional_wear/bubu_boubou/57.jpg",
+      "description": "African Print Boubou Dress for Woman - DOminating Teal, WHite and Black",
+      "colors": ["Teal", "Black", "White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "58.jpg",
+      "path": "traditional_wear/bubu_boubou/58.jpg",
+      "description": "African Print Boubou Dress for Woman - DOminating Teal, WHite and Black",
+      "colors": ["Teal", "Black", "White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "59.jpg",
+      "path": "traditional_wear/bubu_boubou/59.jpg",
+      "description": "African Print Boubou Dress for Woman - DOminating Teal, WHite and Black",
+      "colors": ["Teal", "Black", "White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "60.jpg",
+      "path": "traditional_wear/bubu_boubou/60.jpg",
+      "description": "African Print Boubou Dress for Woman - DOminating Pink and Black",
+      "colors": ["Pink", "Black"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "62.jpg",
+      "path": "traditional_wear/bubu_boubou/62.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress-WHite",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "63.jpg",
+      "path": "traditional_wear/bubu_boubou/63.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress-Sea Blue",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "64.jpg",
+      "path": "traditional_wear/bubu_boubou/64.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress-Sea Blue",
+      "colors": ["Blue"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "65.jpg",
+      "path": "traditional_wear/bubu_boubou/65.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "66.jpg",
+      "path": "traditional_wear/bubu_boubou/66.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "67.jpg",
+      "path": "traditional_wear/bubu_boubou/67.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "68.jpg",
+      "path": "traditional_wear/bubu_boubou/68.jpg",
+      "description": "African Fashion Bubu Dress for Woman Embroidery Pattern Maxi Dress",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "69.jpg",
+      "path": "traditional_wear/bubu_boubou/69.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Gold"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "70.jpg",
+      "path": "traditional_wear/bubu_boubou/70.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Gold"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "71.jpg",
+      "path": "traditional_wear/bubu_boubou/71.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Gold"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "72.jpg",
+      "path": "traditional_wear/bubu_boubou/72.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown- Gold, Black",
+      "colors": ["Gold", "Black"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "73.jpg",
+      "path": "traditional_wear/bubu_boubou/73.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown- Gold, Black",
+      "colors": ["Gold", "Black"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "74.jpg",
+      "path": "traditional_wear/bubu_boubou/74.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "75.jpg",
+      "path": "traditional_wear/bubu_boubou/75.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "76.jpg",
+      "path": "traditional_wear/bubu_boubou/76.jpg",
+      "description": "Women's Sequin African Bubu Dress Front Slit Stylish Plus Size Gown",
+      "colors": ["Multicolored"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "77.jpg",
+      "path": "traditional_wear/bubu_boubou/77.jpg",
+      "description": "WOmen Bubu Dress -White",
+      "colors": ["White"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "78.jpg",
+      "path": "traditional_wear/bubu_boubou/78.jpg",
+      "description": "WOmen Bubu Dress -Brown",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "79.jpg",
+      "path": "traditional_wear/bubu_boubou/79.jpg",
+      "description": "WOmen Bubu Dress -Brown",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "80.jpg",
+      "path": "traditional_wear/bubu_boubou/80.jpg",
+      "description": "WOmen Bubu Dress -Brown",
+      "colors": ["Brown"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "81.jpg",
+      "path": "traditional_wear/bubu_boubou/81.jpg",
+      "description": "WOmen Bubu Dress -Orange",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "82.jpg",
+      "path": "traditional_wear/bubu_boubou/82.jpg",
+      "description": "WOmen Bubu Dress -Orange",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "83.jpg",
+      "path": "traditional_wear/bubu_boubou/83.jpg",
+      "description": "WOmen Bubu Dress -Orange",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
+    },
+    {
+      "filename": "84.jpg",
+      "path": "traditional_wear/bubu_boubou/84.jpg",
+      "description": "WOmen Bubu Dress -Orange",
+      "colors": ["Orange"],
+      "gender": ["Female"],
+      "fabric": ["Polyester"]
     }
   ]
 }
